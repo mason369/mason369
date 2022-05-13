@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**mason369/mason369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**deng-rui/deng-rui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello everyone!
+welcome!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mason369.mason369)
+
+> Discord:Sky Mason #7160
+> Mail: masoenyang00@gmail.com 
+
+
+![Mason369 github stats](https://github-readme-stats.vercel.app/api/?username=mason369&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffff00&bg_color=111111)
