@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello everyone!
-welcome!
+welcome to my homepage！
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mason369.mason369)
 
