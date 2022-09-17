@@ -21,7 +21,7 @@ welcome!
 
 > Discord:Mason Skywalker #7160
 > 
-> Mail: maosenyang00@gmail.com 
+> Mail: maosenyang00@gmail.com / 1960638223@qq.com
 
 
 ![Mason369 github stats](https://github-readme-stats.vercel.app/api/?username=mason369&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffff00&bg_color=111111)
