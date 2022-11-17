@@ -28,7 +28,7 @@ welcome to my homepage！
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mason369.mason369)
 
 
-|![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=mason369&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&hide=Smali&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
+|![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=mason369&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&hide=Smali,BatchFile,shell,Ruby&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
 |-|-
 
 
