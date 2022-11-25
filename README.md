@@ -31,6 +31,8 @@ welcome to my homepage！
 |![](https://github-readme-stats.vercel.app/api?username=mason369) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&hide=Smali,BatchFile,shell,Ruby&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
 |-|-
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 活跃的代码仓库：
 助农电商项目-Vue：[传送门](https://github.com/Galaxy-Wish-Star/E-commerce)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-Wish-Star&repo=E-commerce&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|Galaxy-Wish-Star团队的开发进程：[传送门](https://github.com/Galaxy-Wish-Star/Web_DEV_ING)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-Wish-Star&repo=Web_DEV_ING&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|Mason的个人博客：[传送门](https://masonosam.top/)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mason369&repo=Mason_blog&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|
