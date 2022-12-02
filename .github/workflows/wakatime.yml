@@ -15,5 +15,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           SHOW_TIME: true
