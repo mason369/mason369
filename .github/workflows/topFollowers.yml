@@ -3,7 +3,7 @@ name: Get Top Followers
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 22 * * *'
   workflow_dispatch:
