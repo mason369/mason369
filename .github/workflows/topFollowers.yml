@@ -20,7 +20,7 @@ jobs:
       - name: Install requests
         run: pip install requests
       - name: Update README
-        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
+        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.FORCE_WITH_LEASE }} README.md
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
@@ -32,4 +32,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@552c074ed701137ebd2bf098e70c394ca293e87f
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FORCE_WITH_LEASE: ${{ secrets.FORCE_WITH_LEASE }}
