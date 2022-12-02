@@ -17,7 +17,7 @@ jobs:
           python-version: 3.8
       - run: pip install starred
       - name: Update star list
-        run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.FORCE_WITH_LEASE }} > AWESOME-STARS.md
+        run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.ACCESS_TOKEN }} > AWESOME-STARS.md
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
@@ -29,4 +29,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@552c074ed701137ebd2bf098e70c394ca293e87f
         with:
-          FORCE_WITH_LEASE: ${{ secrets.FORCE_WITH_LEASE }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
