@@ -34,7 +34,7 @@ I'm **Mason**.
 
 ---
 
-#### :sparkles: [My followers](src/getTopFollowers.py)
+#### :sparkles: [My followers](src/getTopFollowers.py)(我的粉丝)
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -57,7 +57,7 @@ I'm **Mason**.
 </table>
 <!--END_SECTION:top-followers-->
 
-#### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+#### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)(每月编码时间)
 
 <!--START_SECTION:waka-->
 
