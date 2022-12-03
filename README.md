@@ -40,7 +40,7 @@ Visitor Count:<br>
     <img  src="https://github-readme-stats-ouuan.vercel.app/api?username=mason369&theme=ligit&show_icons=true">
     </a></th>
     <th style="border:none"><a href="https://github.com/mason369">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6&hide=smali" />
     </a></th>
   </tr>
 </table>
