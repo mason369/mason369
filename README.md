@@ -26,7 +26,7 @@ I'm **Mason**.
 
 总访客次数:<br>
 Visitor Count:<br>
-<img src="https://profile-counter.glitch.me/LingASDJ/count.svg"/>
+<img src="https://profile-counter.glitch.me/mason369/count.svg"/>
 <br></br>
 <table style="width:100%;margin-top:30px" style="border:none">
   <tr style="border:none">
