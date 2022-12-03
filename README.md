@@ -24,7 +24,7 @@ I'm **Mason**.
 <table style="width:100%" style="border:none">
   <tr style="border:none">
     <th style="border:none"><a href="https://github.com/mason369">
-    <img  width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=mason369&theme=ligit&show_icons=true">
+    <img  src="https://github-readme-stats-ouuan.vercel.app/api?username=mason369&theme=ligit&show_icons=true">
     </a></th>
     <th style="border:none"><a href="https://github.com/mason369">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6" />
