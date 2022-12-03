@@ -30,6 +30,7 @@ I'm **Mason**.
     </a></th>
   </tr>
 </table>
+
 ---
 
 #### :sparkles: [My followers](src/getTopFollowers.py)
