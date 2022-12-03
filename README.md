@@ -1,6 +1,7 @@
 ## Hey, ouuan here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=mason369&theme=ligit&show_icons=true">](https://metrics.lecoq.io/mason369#gh-light-mode-only)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
+
 I'm **Mason**.
 
 **Languages and Frameworks**
@@ -23,7 +24,7 @@ I'm **Mason**.
 <table style="width:100%" style="border:none">
   <tr style="border:none">
     <th style="border:none"><a href="https://github.com/mason369">
-    <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
+    <img  width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=mason369&theme=ligit&show_icons=true">
     </a></th>
     <th style="border:none"><a href="https://github.com/mason369">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6" />
