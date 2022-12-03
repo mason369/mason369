@@ -20,16 +20,9 @@ I'm **Mason**.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png?_gl=1*10616q8*_ga*MTEwMzE4MDQwOS4xNjU0NzQ0NjIw*_ga_9J976DJZ68*MTY1NTA5NzcyOC4yLjEuMTY1NTA5ODE3Ni42MA..&_ga=2.237879491.294686240.1655097729-1103180409.1654744620" alt="WebStorm" title="WebStorm"></code>
 
-<table style="width:100%" style="border:none">
-  <tr style="border:none">
-    <th style="border:none"><a href="https://github.com/mason369">
-    <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
-    </a></th>
-    <th style="border:none"><a href="https://github.com/mason369">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6" />
-    </a></th>
-  </tr>
-</table>
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6" />
 
 ---
 
