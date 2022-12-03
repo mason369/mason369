@@ -78,3 +78,8 @@ Vue          0 hrs 1 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
 <!--END_SECTION:waka-->
+---
+
+#### :star2: [Projects starred by me(我加星标的项目)](https://github.com/maguowei/starred)
+
+[My Awesome Stars](AWESOME-STARS.md)
