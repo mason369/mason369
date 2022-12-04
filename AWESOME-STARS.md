@@ -9,6 +9,8 @@
 - [CSS](#css)
 - [HTML](#html)
 - [Java](#java)
+- [Python](#python)
+- [Vue](#vue)
 
 ## C++ 
 
@@ -16,6 +18,7 @@
 
 ## CSS 
 
+- [School-of-Website-Engineering/Rosy-DR-Code-Ling](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling) - Rosy-DR-Code-Ling的Web页面，SOWE前端开发团队匠心维护
 - [Galaxy-Wish-Star/Rural-revitalization-agricultural-assistance-services](https://github.com/Galaxy-Wish-Star/Rural-revitalization-agricultural-assistance-services) - 乡村振兴，助农服务前端静态页面开发项目，Galaxy团队重磅制作
 - [LingASDJ/MagicLingPixelDungeon_Sing](https://github.com/LingASDJ/MagicLingPixelDungeon_Sing) - Ling Web Page
 
@@ -30,6 +33,15 @@
 - [AnsdoShip/magic-ling-pixel-dungeon](https://github.com/AnsdoShip/magic-ling-pixel-dungeon) - Magic Ling Pixel Dungeon, started at 2021-2-12. Based on Shattered Pixel Dungeon.
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+
+## Python 
+
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 1 stars and 0 forks 🌟
+- [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
+
+## Vue 
+
+- [School-of-Website-Engineering/Progressive-Tune](https://github.com/School-of-Website-Engineering/Progressive-Tune) - Progressive Tune的重置页面，SOWE前端开发团队倾心打造
 
 
 ## License
