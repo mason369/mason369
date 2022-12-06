@@ -70,7 +70,7 @@
 
 ## Python 
 
-- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 3 stars and 0 forks 🌟
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 4 stars and 0 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
 ## SCSS 
