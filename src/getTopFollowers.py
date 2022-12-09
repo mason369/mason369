@@ -75,9 +75,9 @@ query {{
             id = follower["databaseId"]
             followerNumber = follower["followers"]["totalCount"]
             thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
-            if following > thirdStars * 50 + repoCount * 5 + followerNumber:
-                print(f"Skipped: https://github.com/{login} with {followerNumber} followers and {following} following")
-                continue
+            # if following > thirdStars * 50 + repoCount * 5 + followerNumber:
+            #     print(f"Skipped: https://github.com/{login} with {followerNumber} followers and {following} following")
+            #     continue
             followers.append((followerNumber, login, id, name if name else login))
             print(followers[-1])
         if not res["pageInfo"]["hasNextPage"]:
