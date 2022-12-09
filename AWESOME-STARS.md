@@ -11,6 +11,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Others](#others)
 - [Python](#python)
@@ -19,6 +20,7 @@
 
 ## C++ 
 
+- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 ## CSS 
@@ -39,6 +41,7 @@
 
 ## Java 
 
+- [FJ-OMS/oms-erp](https://github.com/FJ-OMS/oms-erp) - 一站式全渠道业务中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。
 - [LingASDJ/Maple-Leaves-Pixel-Dungeon](https://github.com/LingASDJ/Maple-Leaves-Pixel-Dungeon) - Cooperative projects, mainly for code writing.
 - [Jinxqq/OutSiderAPM](https://github.com/Jinxqq/OutSiderAPM) - Powerful, comprehensice application performance management platform of Android
 - [weixiansen574/Genshin-Lyre-midi-player](https://github.com/weixiansen574/Genshin-Lyre-midi-player) - 基于无障碍的原神midi自动演奏器（自动弹琴）
@@ -49,9 +52,14 @@
 
 ## JavaScript 
 
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Nginx + Vue3 + Lua.
 - [liaoaoyang/TinyWaste](https://github.com/liaoaoyang/TinyWaste) - Archive of TinyWaste Game written by @mikiashiki
 - [hellojuantu/image_border_optimizer](https://github.com/hellojuantu/image_border_optimizer) - 轻量化的图片编辑器
 - [Alie-z/nodejs-koa-blog](https://github.com/Alie-z/nodejs-koa-blog) - 基于 Node.js Koa2 实战开发的一套完整的博客项目网站
+
+## Jupyter Notebook 
+
+- [Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics) - Implementation/Tutorial of using Automated Machine Learning (AutoML) methods for static/batch and online data analytics
 
 ## Kotlin 
 
@@ -59,23 +67,29 @@
 
 ## Others 
 
+- [kaka3511/computer-graduation-design-idea](https://github.com/kaka3511/computer-graduation-design-idea) - 计算机毕业设计（源码+论文）
 - [liusxs/liusxs](https://github.com/liusxs/liusxs) - 
 - [mason369/webpointdev](https://github.com/mason369/webpointdev) - This is my Profile. Please carefully read my profile. Thank.
 
 ## Python 
 
+- [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
+- [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Official implementation of paper "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model"
-- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 32 stars and 0 forks 🌟
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 46 stars and 0 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
 ## TypeScript 
 
+- [Lrunlin/blog](https://github.com/Lrunlin/blog) - 使用Next.js+React.js+Koa+Typescript搭建的技术博客社区
 - [cpagejs/cate-design](https://github.com/cpagejs/cate-design) - cate-design 一个基于vue3的前端UI框架，简单易用
 - [NervJS/tarojs-plugin-platform-nextjs](https://github.com/NervJS/tarojs-plugin-platform-nextjs) - 让 Taro H5 支持 Pre-rendering、SSR 和 ISR，极致的首屏速度🚀，利于 SEO🔍。
 - [sanjayheaven/gganbu-admin-FE](https://github.com/sanjayheaven/gganbu-admin-FE) - An out-of-box Background Management System based on RBAC. 📦 开箱即用的权限后台管理系统.
 
 ## Vue 
 
+- [xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
+- [LOUSANPANG/fe-workflow](https://github.com/LOUSANPANG/fe-workflow) - 📃 FE Engineering Construction Guide Refspec
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [liusxs/System](https://github.com/liusxs/System) - 
 - [mason369/E-commerce](https://github.com/mason369/E-commerce) - 
