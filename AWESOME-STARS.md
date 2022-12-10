@@ -5,18 +5,26 @@
 
 ## Contents
 
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Go](#go)
+- [Groovy](#groovy)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## C# # 
+
+- [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
 ## C++ 
 
@@ -31,7 +39,13 @@
 
 ## Go 
 
+- [wind-c/comqtt](https://github.com/wind-c/comqtt) - A lightweight, high-performance go mqtt server(v3.0|v3.1.1|v5.0) supporting distributed cluster
+- [KubeOperator/KubePi](https://github.com/KubeOperator/KubePi) - KubePi 是一个现代化的 K8s 面板。
 - [farseer-go/fs](https://github.com/farseer-go/fs) - farseer-go所有组件的基础模块，模块启动器，框架初始化程序
+
+## Groovy 
+
+- [ihub-pub/plugins](https://github.com/ihub-pub/plugins) - A set of Gradle plug-ins that greatly simplify project management / 一套极大简化项目管理的Gradle插件集
 
 ## HTML 
 
@@ -41,6 +55,9 @@
 
 ## Java 
 
+- [Raray-chuan/mini-spring](https://github.com/Raray-chuan/mini-spring) - 手写Spring,支持ioc(三级缓存)、aop(cglib)、内嵌tomcat🍃
+- [Raray-chuan/xichuan_note](https://github.com/Raray-chuan/xichuan_note) - xichuan的学习总结笔记,覆盖了java、spring、java其他常用框架,以及大数据相关组件等📚
+- [zzzzzzzzyt/zeng-rpc-framework](https://github.com/zzzzzzzzyt/zeng-rpc-framework) - 手写自己的RPC框架/Handwritten RPC framework
 - [FJ-OMS/oms-erp](https://github.com/FJ-OMS/oms-erp) - 一站式全渠道业务中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。
 - [LingASDJ/Maple-Leaves-Pixel-Dungeon](https://github.com/LingASDJ/Maple-Leaves-Pixel-Dungeon) - Cooperative projects, mainly for code writing.
 - [Jinxqq/OutSiderAPM](https://github.com/Jinxqq/OutSiderAPM) - Powerful, comprehensice application performance management platform of Android
@@ -67,20 +84,32 @@
 
 ## Others 
 
+- [Hank-Chrome/free-clash-node](https://github.com/Hank-Chrome/free-clash-node) - 免费clash节点！亲测可用！高速！
 - [kaka3511/computer-graduation-design-idea](https://github.com/kaka3511/computer-graduation-design-idea) - 计算机毕业设计（源码+论文）
 - [liusxs/liusxs](https://github.com/liusxs/liusxs) - 
 - [mason369/webpointdev](https://github.com/mason369/webpointdev) - This is my Profile. Please carefully read my profile. Thank.
 
+## PHP 
+
+- [usualtool/framework](https://github.com/usualtool/framework) - UsualTool Framework (UT)  is based on PHP multi-end development framework, class library perfect, suitable for the development of various types of applications.
+
 ## Python 
 
+- [opendilab/DI-engine](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine
+- [Yuanyuan-Yuan/Manifold-SCA](https://github.com/Yuanyuan-Yuan/Manifold-SCA) - Research Artifact of USENIX Security 2022 Paper: Automated Side Channel Analysis of Media Software with Manifold Learning
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Official implementation of paper "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model"
-- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 46 stars and 0 forks 🌟
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 52 stars and 0 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
+
+## Swift 
+
+- [i-stack/STBaseProject](https://github.com/i-stack/STBaseProject) - Collect common classes in the development process
 
 ## TypeScript 
 
+- [zouyongzou/electron-forge-publisher-oss](https://github.com/zouyongzou/electron-forge-publisher-oss) - Electron Forge Publisher OSS that publish your distributable Electron app artifacts to Aliyun Object Storage Service (OSS).
 - [Lrunlin/blog](https://github.com/Lrunlin/blog) - 使用Next.js+React.js+Koa+Typescript搭建的技术博客社区
 - [cpagejs/cate-design](https://github.com/cpagejs/cate-design) - cate-design 一个基于vue3的前端UI框架，简单易用
 - [NervJS/tarojs-plugin-platform-nextjs](https://github.com/NervJS/tarojs-plugin-platform-nextjs) - 让 Taro H5 支持 Pre-rendering、SSR 和 ISR，极致的首屏速度🚀，利于 SEO🔍。
@@ -88,12 +117,13 @@
 
 ## Vue 
 
+- [readpage/undraw-ui](https://github.com/readpage/undraw-ui) - vue评论组件，🔥基于vue3的UI组件，主要功能有评论，聊天，搜索，锚点。你的⭐️Star ，是作者开发的动力！
 - [xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
 - [LOUSANPANG/fe-workflow](https://github.com/LOUSANPANG/fe-workflow) - 📃 FE Engineering Construction Guide Refspec
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [liusxs/System](https://github.com/liusxs/System) - 
 - [mason369/E-commerce](https://github.com/mason369/E-commerce) - 
-- [School-of-Website-Engineering/Progressive-Tune](https://github.com/School-of-Website-Engineering/Progressive-Tune) - Progressive Tune的重置页面，SOWE前端开发团队倾心打造
+- [School-of-Website-Engineering/TinyWaste](https://github.com/School-of-Website-Engineering/TinyWaste) - TinyWaste的重写版本，SOWE前端开发团队倾心打造
 
 
 ## License
