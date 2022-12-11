@@ -8,6 +8,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -18,16 +19,19 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
 ## C# # 
 
+- [Super-Badmen-Viper/MoZhiMusicPlayer](https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer) - MusicPlayer，模仿QQ音乐PC端，基于dotNET_ C#_ WPF的个人开源音乐播放器，优秀的个人学习项目
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
 ## C++ 
 
+- [OldJii/ring_layout](https://github.com/OldJii/ring_layout) - ring_layout is a ui component that helps you build ring layouts.
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
@@ -37,8 +41,16 @@
 - [Galaxy-Wish-Star/Rural-revitalization-agricultural-assistance-services](https://github.com/Galaxy-Wish-Star/Rural-revitalization-agricultural-assistance-services) - 乡村振兴，助农服务前端静态页面开发项目，Galaxy团队重磅制作
 - [LingASDJ/MagicLingPixelDungeon_Sing](https://github.com/LingASDJ/MagicLingPixelDungeon_Sing) - Ling Web Page
 
+## Dockerfile 
+
+- [wjoj/qb](https://github.com/wjoj/qb) - Build project code quickly
+
 ## Go 
 
+- [golang-module/dongle](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption
+- [linkxzhou/http_bench](https://github.com/linkxzhou/http_bench) - golang HTTP stress test tool, support single and distributed
+- [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime
+- [jin06/binlogo](https://github.com/jin06/binlogo) - Distributed、High availability、Simplicity、Visualized. Base on mysql binlog , process binlog into understandable message and send to kafka etc
 - [wind-c/comqtt](https://github.com/wind-c/comqtt) - A lightweight, high-performance go mqtt server(v3.0|v3.1.1|v5.0) supporting distributed cluster
 - [KubeOperator/KubePi](https://github.com/KubeOperator/KubePi) - KubePi 是一个现代化的 K8s 面板。
 - [farseer-go/fs](https://github.com/farseer-go/fs) - farseer-go所有组件的基础模块，模块启动器，框架初始化程序
@@ -49,12 +61,14 @@
 
 ## HTML 
 
+- [NICEXAI/leaflet_zh](https://github.com/NICEXAI/leaflet_zh) - Leaflet中文文档
 - [liusxs/liuliu](https://github.com/liusxs/liuliu) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [liusxs/Project](https://github.com/liusxs/Project) - 
 - [mason369/Mason_blog](https://github.com/mason369/Mason_blog) - Base on PortfolYOU jekyll theme.
 
 ## Java 
 
+- [zhongjhATC/AlbumCameraRecorder](https://github.com/zhongjhATC/AlbumCameraRecorder) - 🔥一个高效的多媒体支持操作库，可多方面的简单配置操作相册、拍照、录制、录音等功能。也支持配套使用的展示图片、视频、音频的九宫格功能。 （An efficient multimedia support operation library, can be a variety of simple configuration operation album, photo, recording, recor
 - [Raray-chuan/mini-spring](https://github.com/Raray-chuan/mini-spring) - 手写Spring,支持ioc(三级缓存)、aop(cglib)、内嵌tomcat🍃
 - [Raray-chuan/xichuan_note](https://github.com/Raray-chuan/xichuan_note) - xichuan的学习总结笔记,覆盖了java、spring、java其他常用框架,以及大数据相关组件等📚
 - [zzzzzzzzyt/zeng-rpc-framework](https://github.com/zzzzzzzzyt/zeng-rpc-framework) - 手写自己的RPC框架/Handwritten RPC framework
@@ -69,6 +83,8 @@
 
 ## JavaScript 
 
+- [dagger8224/dagger.js](https://github.com/dagger8224/dagger.js) - A lightweight html-based runtime web frontend framework
+- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Nginx + Vue3 + Lua.
 - [liaoaoyang/TinyWaste](https://github.com/liaoaoyang/TinyWaste) - Archive of TinyWaste Game written by @mikiashiki
 - [hellojuantu/image_border_optimizer](https://github.com/hellojuantu/image_border_optimizer) - 轻量化的图片编辑器
@@ -91,17 +107,29 @@
 
 ## PHP 
 
+- [WanyueKJ/education-online](https://github.com/WanyueKJ/education-online) - 万岳教育的web+后台管理系统。万岳教育系统(wanyue-education)，自主研发集知识付费、直播授课、在线教育功能为一体的在线/直播/题库/考试(exam)的教育平台系统
+- [1107012776/PHP-Sharding-PDO](https://github.com/1107012776/PHP-Sharding-PDO) - PHP、MySQL分库分表中间件，需要依赖PDO，PHP分库分表，支持协程（PHP, MySQL sharding library and sharding table middleware, need to rely on PDO, support coroutines.）
 - [usualtool/framework](https://github.com/usualtool/framework) - UsualTool Framework (UT)  is based on PHP multi-end development framework, class library perfect, suitable for the development of various types of applications.
 
 ## Python 
 
+- [ghtwf01/excavator](https://github.com/ghtwf01/excavator) - Passive DAST Scanner（被动式黑盒漏洞扫描器）
+- [NoOneUST/IS-MVSNet](https://github.com/NoOneUST/IS-MVSNet) - [ECCV 2022] IS-MVSNet: Importance-sampling-based MVSNet
+- [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试\iOS性能测试\移动端性能测试\APP性能测试）
+- [ZJUDataIntelligence/Tempo](https://github.com/ZJUDataIntelligence/Tempo) - 
+- [ZJUDataIntelligence/HDM-GNN](https://github.com/ZJUDataIntelligence/HDM-GNN) - 
+- [TheAlgorithm-SimpleChinese/Python](https://github.com/TheAlgorithm-SimpleChinese/Python) - 
 - [opendilab/DI-engine](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine
 - [Yuanyuan-Yuan/Manifold-SCA](https://github.com/Yuanyuan-Yuan/Manifold-SCA) - Research Artifact of USENIX Security 2022 Paper: Automated Side Channel Analysis of Media Software with Manifold Learning
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Official implementation of paper "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model"
-- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 52 stars and 0 forks 🌟
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 56 stars and 0 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
+
+## Shell 
+
+- [iwhalecloud-platform/redis-tool](https://github.com/iwhalecloud-platform/redis-tool) - Redis Cluster Daily Maintenance Tool/Redis集群日常运维工具
 
 ## Swift 
 
@@ -109,6 +137,7 @@
 
 ## TypeScript 
 
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [zouyongzou/electron-forge-publisher-oss](https://github.com/zouyongzou/electron-forge-publisher-oss) - Electron Forge Publisher OSS that publish your distributable Electron app artifacts to Aliyun Object Storage Service (OSS).
 - [Lrunlin/blog](https://github.com/Lrunlin/blog) - 使用Next.js+React.js+Koa+Typescript搭建的技术博客社区
 - [cpagejs/cate-design](https://github.com/cpagejs/cate-design) - cate-design 一个基于vue3的前端UI框架，简单易用
@@ -117,6 +146,7 @@
 
 ## Vue 
 
+- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统
 - [readpage/undraw-ui](https://github.com/readpage/undraw-ui) - vue评论组件，🔥基于vue3的UI组件，主要功能有评论，聊天，搜索，锚点。你的⭐️Star ，是作者开发的动力！
 - [xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
 - [LOUSANPANG/fe-workflow](https://github.com/LOUSANPANG/fe-workflow) - 📃 FE Engineering Construction Guide Refspec
