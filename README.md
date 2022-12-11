@@ -67,6 +67,13 @@ Visitor Count:<br>
       <a href="https://github.com/LingASDJ">JDSA Ling</a>
     </td>
     <td align="center">
+      <a href="https://github.com/tonyandeverything">
+        <img src="https://avatars2.githubusercontent.com/u/50584032" width="100px;" alt="tonyandeverything"/>
+      </a>
+      <br />
+      <a href="https://github.com/tonyandeverything">ThemeTony</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HonnaMeiko">
         <img src="https://avatars2.githubusercontent.com/u/56993813" width="100px;" alt="HonnaMeiko"/>
       </a>
@@ -94,6 +101,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/walkonthesun">Canna Vandigam  Sanmalino</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/happyallha">
         <img src="https://avatars2.githubusercontent.com/u/118089853" width="100px;" alt="happyallha"/>
