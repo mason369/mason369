@@ -26,7 +26,6 @@
 
 ## C# # 
 
-- [Super-Badmen-Viper/MoZhiMusicPlayer](https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer) - MusicPlayer，模仿QQ音乐PC端，基于dotNET_ C#_ WPF的个人开源音乐播放器，优秀的个人学习项目
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
 ## C++ 
@@ -68,7 +67,6 @@
 
 ## Java 
 
-- [wangfan002/db2es](https://github.com/wangfan002/db2es) - 同步数据库到数据到ES   sync data from database to es
 - [zhongjhATC/AlbumCameraRecorder](https://github.com/zhongjhATC/AlbumCameraRecorder) - 🔥一个高效的多媒体支持操作库，可多方面的简单配置操作相册、拍照、录制、录音等功能。也支持配套使用的展示图片、视频、音频的九宫格功能。 （An efficient multimedia support operation library, can be a variety of simple configuration operation album, photo, recording, recor
 - [Raray-chuan/mini-spring](https://github.com/Raray-chuan/mini-spring) - 手写Spring,支持ioc(三级缓存)、aop(cglib)、内嵌tomcat🍃
 - [Raray-chuan/xichuan_note](https://github.com/Raray-chuan/xichuan_note) - xichuan的学习总结笔记,覆盖了java、spring、java其他常用框架,以及大数据相关组件等📚
@@ -101,7 +99,6 @@
 
 ## Others 
 
-- [tingyour/tingyour](https://github.com/tingyour/tingyour) - Tingyour是一个无需科学上网即可让你畅游YouTube油管，且可听/可看/可下载的视听体验，帮助发掘自己独特的兴趣所在的网站！
 - [Hank-Chrome/free-clash-node](https://github.com/Hank-Chrome/free-clash-node) - 免费clash节点！亲测可用！高速！
 - [kaka3511/computer-graduation-design-idea](https://github.com/kaka3511/computer-graduation-design-idea) - 计算机毕业设计（源码+论文）
 - [liusxs/liusxs](https://github.com/liusxs/liusxs) - 
@@ -115,7 +112,7 @@
 
 ## Python 
 
-- [Soulter/QQChannelChatGPT](https://github.com/Soulter/QQChannelChatGPT) - 基于OpenAI ChatGPT 的QQ频道聊天机器人 | QQ channel chatbot
+- [yifan123/IC-Conv](https://github.com/yifan123/IC-Conv) - Official pytorch implementation of paper "Inception Convolution with Efficient Dilation Search" (CVPR 2021 Oral).
 - [ghtwf01/excavator](https://github.com/ghtwf01/excavator) - Passive DAST Scanner（被动式黑盒漏洞扫描器）
 - [NoOneUST/IS-MVSNet](https://github.com/NoOneUST/IS-MVSNet) - [ECCV 2022] IS-MVSNet: Importance-sampling-based MVSNet
 - [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试\iOS性能测试\移动端性能测试\APP性能测试）
