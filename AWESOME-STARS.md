@@ -52,7 +52,7 @@
 - [jin06/binlogo](https://github.com/jin06/binlogo) - Distributed、High availability、Simplicity、Visualized. Base on mysql binlog , process binlog into understandable message and send to kafka etc
 - [wind-c/comqtt](https://github.com/wind-c/comqtt) - A lightweight, high-performance go mqtt server(v3.0|v3.1.1|v5.0) supporting distributed cluster
 - [KubeOperator/KubePi](https://github.com/KubeOperator/KubePi) - KubePi 是一个现代化的 K8s 面板。
-- [farseer-go/fs](https://github.com/farseer-go/fs) - farseer-go所有组件的基础模块，模块启动器，框架初始化程序
+- [farseer-go/fs](https://github.com/farseer-go/fs) - farseer-go all components of the base module, module launcher, framework initialization program（所有组件的基础模块，模块启动器，框架初始化程序）
 
 ## Groovy 
 
