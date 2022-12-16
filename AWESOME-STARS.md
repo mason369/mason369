@@ -67,6 +67,7 @@
 
 ## Java 
 
+- [FGMBack/CodeFarmer](https://github.com/FGMBack/CodeFarmer) - 
 - [zhongjhATC/AlbumCameraRecorder](https://github.com/zhongjhATC/AlbumCameraRecorder) - 🔥一个高效的多媒体支持操作库，可多方面的简单配置操作相册、拍照、录制、录音等功能。也支持配套使用的展示图片、视频、音频的九宫格功能。 （An efficient multimedia support operation library, can be a variety of simple configuration operation album, photo, recording, recor
 - [Raray-chuan/mini-spring](https://github.com/Raray-chuan/mini-spring) - 手写Spring,支持ioc(三级缓存)、aop(cglib)、内嵌tomcat🍃
 - [Raray-chuan/xichuan_note](https://github.com/Raray-chuan/xichuan_note) - xichuan的学习总结笔记,覆盖了java、spring、java其他常用框架,以及大数据相关组件等📚
@@ -124,7 +125,7 @@
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Official implementation of paper "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model"
-- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 56 stars and 0 forks 🌟
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 55 stars and 0 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
 ## Shell 
