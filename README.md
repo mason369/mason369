@@ -53,6 +53,41 @@ Visitor Count:<br>
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/gamemann">
+        <img src="https://avatars2.githubusercontent.com/u/6509565" width="100px;" alt="gamemann"/>
+      </a>
+      <br />
+      <a href="https://github.com/gamemann">Christian Deacon</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/peter-kimanzi">
+        <img src="https://avatars2.githubusercontent.com/u/71552773" width="100px;" alt="peter-kimanzi"/>
+      </a>
+      <br />
+      <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kwynto">
+        <img src="https://avatars2.githubusercontent.com/u/31433211" width="100px;" alt="Kwynto"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kwynto">Constantine Zavezeon</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anilcanboga">
+        <img src="https://avatars2.githubusercontent.com/u/60179891" width="100px;" alt="anilcanboga"/>
+      </a>
+      <br />
+      <a href="https://github.com/anilcanboga">anilcanboga</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/itsApurba">
+        <img src="https://avatars2.githubusercontent.com/u/25547103" width="100px;" alt="itsApurba"/>
+      </a>
+      <br />
+      <a href="https://github.com/itsApurba">Apurba Adhikary</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Tianscar">
         <img src="https://avatars2.githubusercontent.com/u/51444057" width="100px;" alt="Tianscar"/>
       </a>
@@ -66,6 +101,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/LingASDJ">JDSA Ling</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/tonyandeverything">
         <img src="https://avatars2.githubusercontent.com/u/50584032" width="100px;" alt="tonyandeverything"/>
@@ -101,8 +138,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/liusxs">liuliu66</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/walkonthesun">
         <img src="https://avatars2.githubusercontent.com/u/119514948" width="100px;" alt="walkonthesun"/>
@@ -117,12 +152,14 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/happyallha">happy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/FGMBack">
         <img src="https://avatars2.githubusercontent.com/u/112483533" width="100px;" alt="FGMBack"/>
       </a>
       <br />
-      <a href="https://github.com/FGMBack">FGMBack</a>
+      <a href="https://github.com/FGMBack">Glins</a>
     </td>
   </tr>
 </table>
