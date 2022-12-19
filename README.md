@@ -88,18 +88,18 @@ Visitor Count:<br>
       <a href="https://github.com/Takatsuki-Sen">高槻 泉</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Tianscar">
-        <img src="https://avatars2.githubusercontent.com/u/51444057" width="100px;" alt="Tianscar"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tianscar">碳酸天剑</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Luunge">
         <img src="https://avatars2.githubusercontent.com/u/115547577" width="100px;" alt="Luunge"/>
       </a>
       <br />
       <a href="https://github.com/Luunge">Abdirahman Ahmad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tianscar">
+        <img src="https://avatars2.githubusercontent.com/u/51444057" width="100px;" alt="Tianscar"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tianscar">碳酸天剑</a>
     </td>
   </tr>
   <tr>
