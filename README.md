@@ -88,21 +88,12 @@ Visitor Count:<br>
       <a href="https://github.com/Takatsuki-Sen">高槻 泉</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Luunge">
-        <img src="https://avatars2.githubusercontent.com/u/115547577" width="100px;" alt="Luunge"/>
-      </a>
-      <br />
-      <a href="https://github.com/Luunge">Abdirahman Ahmad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Tianscar">
         <img src="https://avatars2.githubusercontent.com/u/51444057" width="100px;" alt="Tianscar"/>
       </a>
       <br />
       <a href="https://github.com/Tianscar">碳酸天剑</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LingASDJ">
         <img src="https://avatars2.githubusercontent.com/u/70191651" width="100px;" alt="LingASDJ"/>
@@ -110,6 +101,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/LingASDJ">JDSA Ling</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/tonyandeverything">
         <img src="https://avatars2.githubusercontent.com/u/50584032" width="100px;" alt="tonyandeverything"/>
@@ -152,8 +145,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/liusxs">liuliu66</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/wenxincoder">
         <img src="https://avatars2.githubusercontent.com/u/115622702" width="100px;" alt="wenxincoder"/>
@@ -161,6 +152,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/wenxincoder">xixi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/walkonthesun">
         <img src="https://avatars2.githubusercontent.com/u/119514948" width="100px;" alt="walkonthesun"/>
