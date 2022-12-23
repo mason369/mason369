@@ -96,6 +96,13 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/lucasamorimd">
+        <img src="https://avatars2.githubusercontent.com/u/23130494" width="100px;" alt="lucasamorimd"/>
+      </a>
+      <br />
+      <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/MaheenMohid">
         <img src="https://avatars2.githubusercontent.com/u/117740011" width="100px;" alt="MaheenMohid"/>
       </a>
@@ -137,6 +144,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/renqian805">renqian805</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HonnaMeiko">
         <img src="https://avatars2.githubusercontent.com/u/56993813" width="100px;" alt="HonnaMeiko"/>
@@ -144,8 +153,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/HonnaMeiko">HonnaMeiko</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/liusxs">
         <img src="https://avatars2.githubusercontent.com/u/101164913" width="100px;" alt="liusxs"/>
@@ -187,13 +194,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/TellMeWhy1122">TellMeWhy1122</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/FGMBack">
-        <img src="https://avatars2.githubusercontent.com/u/112483533" width="100px;" alt="FGMBack"/>
-      </a>
-      <br />
-      <a href="https://github.com/FGMBack">Glins</a>
     </td>
   </tr>
 </table>
