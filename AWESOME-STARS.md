@@ -46,7 +46,7 @@
 
 ## Go 
 
-- [golang-module/dongle](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding&decoding, encryption&decryption and signature&verification
+- [golang-module/dongle](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption
 - [linkxzhou/http_bench](https://github.com/linkxzhou/http_bench) - golang HTTP stress testing tool, support single and distributed, http/1, http/2 and http/3.
 - [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime
 - [jin06/binlogo](https://github.com/jin06/binlogo) - Distributed、High availability、Simplicity、Visualized. Base on mysql binlog , process binlog into understandable message and send to kafka etc
