@@ -87,20 +87,20 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/anilcanboga">
-        <img src="https://avatars2.githubusercontent.com/u/60179891" width="100px;" alt="anilcanboga"/>
-      </a>
-      <br />
-      <a href="https://github.com/anilcanboga">anilcanboga</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sen-Takatsuki">
+        <img src="https://avatars2.githubusercontent.com/u/68904509" width="100px;" alt="Sen-Takatsuki"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sen-Takatsuki">高槻 泉</a>
     </td>
     <td align="center">
       <a href="https://github.com/OnyedikaBenjamin">
@@ -117,6 +117,13 @@ Visitor Count:<br>
       <a href="https://github.com/CarthikYes">Karthik S ✔️</a>
     </td>
     <td align="center">
+      <a href="https://github.com/MaheenMohid">
+        <img src="https://avatars2.githubusercontent.com/u/117740011" width="100px;" alt="MaheenMohid"/>
+      </a>
+      <br />
+      <a href="https://github.com/MaheenMohid">Maheen Mohiuddin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lucasamorimd">
         <img src="https://avatars2.githubusercontent.com/u/23130494" width="100px;" alt="lucasamorimd"/>
       </a>
@@ -124,11 +131,11 @@ Visitor Count:<br>
       <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MaheenMohid">
-        <img src="https://avatars2.githubusercontent.com/u/117740011" width="100px;" alt="MaheenMohid"/>
+      <a href="https://github.com/OmarUTEC">
+        <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
       </a>
       <br />
-      <a href="https://github.com/MaheenMohid">Maheen Mohiuddin</a>
+      <a href="https://github.com/OmarUTEC">Om@r</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tianscar">
@@ -137,6 +144,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/Tianscar">碳酸天剑</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zhanghao5683934">
         <img src="https://avatars2.githubusercontent.com/u/77037525" width="100px;" alt="zhanghao5683934"/>
@@ -144,8 +153,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/zhanghao5683934">zhanghao5683934</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LingASDJ">
         <img src="https://avatars2.githubusercontent.com/u/70191651" width="100px;" alt="LingASDJ"/>
@@ -187,13 +194,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/nihaoa19">nihaoa19</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ask-F">
-        <img src="https://avatars2.githubusercontent.com/u/117718304" width="100px;" alt="Ask-F"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ask-F">ASK</a>
     </td>
   </tr>
 </table>
