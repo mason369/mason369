@@ -117,6 +117,13 @@ Visitor Count:<br>
       <a href="https://github.com/CarthikYes">Karthik S ✔️</a>
     </td>
     <td align="center">
+      <a href="https://github.com/OmarUTEC">
+        <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
+      </a>
+      <br />
+      <a href="https://github.com/OmarUTEC">Om@r</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/MaheenMohid">
         <img src="https://avatars2.githubusercontent.com/u/117740011" width="100px;" alt="MaheenMohid"/>
       </a>
@@ -129,13 +136,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/OmarUTEC">
-        <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
-      </a>
-      <br />
-      <a href="https://github.com/OmarUTEC">Om@r</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tianscar">
