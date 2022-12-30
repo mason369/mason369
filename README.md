@@ -103,13 +103,6 @@ Visitor Count:<br>
       <a href="https://github.com/Sen-Takatsuki">高槻 泉</a>
     </td>
     <td align="center">
-      <a href="https://github.com/OnyedikaBenjamin">
-        <img src="https://avatars2.githubusercontent.com/u/107368386" width="100px;" alt="OnyedikaBenjamin"/>
-      </a>
-      <br />
-      <a href="https://github.com/OnyedikaBenjamin">Udegbunam Benjamin (Ben Billion)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CarthikYes">
         <img src="https://avatars2.githubusercontent.com/u/104158790" width="100px;" alt="CarthikYes"/>
       </a>
@@ -144,8 +137,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/Tianscar">碳酸天剑</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zhanghao5683934">
         <img src="https://avatars2.githubusercontent.com/u/77037525" width="100px;" alt="zhanghao5683934"/>
@@ -153,6 +144,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/zhanghao5683934">zhanghao5683934</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/LingASDJ">
         <img src="https://avatars2.githubusercontent.com/u/70191651" width="100px;" alt="LingASDJ"/>
@@ -194,6 +187,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/nihaoa19">nihaoa19</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ask-F">
+        <img src="https://avatars2.githubusercontent.com/u/117718304" width="100px;" alt="Ask-F"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ask-F">ASK</a>
     </td>
   </tr>
 </table>
