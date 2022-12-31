@@ -17,6 +17,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [SCSS](#scss)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -57,7 +58,7 @@
 - [weixiansen574/Genshin-Lyre-midi-player](https://github.com/weixiansen574/Genshin-Lyre-midi-player) - 基于无障碍的原神midi自动演奏器（自动弹琴）
 - [LingASDJ/harder-sprouted-pd](https://github.com/LingASDJ/harder-sprouted-pd) - This is HSPD in multiple languages.
 - [AnsdoShip/magic-ling-pixel-dungeon](https://github.com/AnsdoShip/magic-ling-pixel-dungeon) - Magic Ling Pixel Dungeon, started at 2021-2-12. Based on Shattered Pixel Dungeon.
-- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
+- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the source code of Pixel Dung
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 
 ## JavaScript 
@@ -96,6 +97,10 @@
 - [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 32 stars and 0 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
+## SCSS 
+
+- [School-of-Website-Engineering/TinyWaste](https://github.com/School-of-Website-Engineering/TinyWaste) - TinyWaste的重写版本，SOWE前端开发团队倾心打造
+
 ## TypeScript 
 
 - [zouyongzou/electron-forge-publisher-oss](https://github.com/zouyongzou/electron-forge-publisher-oss) - Electron Forge Publisher OSS that publish your distributable Electron app artifacts to Aliyun Object Storage Service (OSS).
@@ -112,7 +117,6 @@
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [liusxs/System](https://github.com/liusxs/System) - 
 - [mason369/E-commerce](https://github.com/mason369/E-commerce) - 
-- [School-of-Website-Engineering/TinyWaste](https://github.com/School-of-Website-Engineering/TinyWaste) - TinyWaste的重写版本，SOWE前端开发团队倾心打造
 
 
 ## License
