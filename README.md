@@ -96,6 +96,13 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/AXG-coder">
+        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
+      </a>
+      <br />
+      <a href="https://github.com/AXG-coder">Aziz falah</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Sen-Takatsuki">
         <img src="https://avatars2.githubusercontent.com/u/68904509" width="100px;" alt="Sen-Takatsuki"/>
       </a>
@@ -137,6 +144,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/Tianscar">碳酸天剑</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zhanghao5683934">
         <img src="https://avatars2.githubusercontent.com/u/77037525" width="100px;" alt="zhanghao5683934"/>
@@ -144,8 +153,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/zhanghao5683934">zhanghao5683934</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LingASDJ">
         <img src="https://avatars2.githubusercontent.com/u/70191651" width="100px;" alt="LingASDJ"/>
@@ -187,13 +194,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/nihaoa19">nihaoa19</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ask-F">
-        <img src="https://avatars2.githubusercontent.com/u/117718304" width="100px;" alt="Ask-F"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ask-F">ASK</a>
     </td>
   </tr>
 </table>
