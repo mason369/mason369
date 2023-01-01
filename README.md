@@ -107,14 +107,7 @@ Visitor Count:<br>
         <img src="https://avatars2.githubusercontent.com/u/68904509" width="100px;" alt="Sen-Takatsuki"/>
       </a>
       <br />
-      <a href="https://github.com/Sen-Takatsuki">高槻 泉</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CarthikYes">
-        <img src="https://avatars2.githubusercontent.com/u/104158790" width="100px;" alt="CarthikYes"/>
-      </a>
-      <br />
-      <a href="https://github.com/CarthikYes">Karthik S ✔️</a>
+      <a href="https://github.com/Sen-Takatsuki">Yoshimura Eto</a>
     </td>
     <td align="center">
       <a href="https://github.com/OmarUTEC">
@@ -122,6 +115,20 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/OmarUTEC">Om@r</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jadaun-sahab">
+        <img src="https://avatars2.githubusercontent.com/u/112753171" width="100px;" alt="jadaun-sahab"/>
+      </a>
+      <br />
+      <a href="https://github.com/jadaun-sahab">Vikas Jadaun</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CarthikYes">
+        <img src="https://avatars2.githubusercontent.com/u/104158790" width="100px;" alt="CarthikYes"/>
+      </a>
+      <br />
+      <a href="https://github.com/CarthikYes">Karthik S ✔️</a>
     </td>
     <td align="center">
       <a href="https://github.com/MaheenMohid">
@@ -137,6 +144,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tianscar">
         <img src="https://avatars2.githubusercontent.com/u/51444057" width="100px;" alt="Tianscar"/>
@@ -144,8 +153,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/Tianscar">碳酸天剑</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zhanghao5683934">
         <img src="https://avatars2.githubusercontent.com/u/77037525" width="100px;" alt="zhanghao5683934"/>
@@ -187,13 +194,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/HonnaMeiko">HonnaMeiko</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nihaoa19">
-        <img src="https://avatars2.githubusercontent.com/u/62192895" width="100px;" alt="nihaoa19"/>
-      </a>
-      <br />
-      <a href="https://github.com/nihaoa19">nihaoa19</a>
     </td>
   </tr>
 </table>
