@@ -79,7 +79,7 @@
 
 ## Others 
 
-- [Hank-Chrome/free-clash-node](https://github.com/Hank-Chrome/free-clash-node) - 免费clash节点！亲测可用！高速！
+- [Hank-Chrome/free-clash-node](https://github.com/Hank-Chrome/free-clash-node) - 免费clash,v2ray节点，好用，还高速！
 - [kaka3511/computer-graduation-design-idea](https://github.com/kaka3511/computer-graduation-design-idea) - 计算机毕业设计（源码+论文）
 - [liusxs/liusxs](https://github.com/liusxs/liusxs) - 
 - [mason369/webpointdev](https://github.com/mason369/webpointdev) - This is my Profile. Please carefully read my profile. Thank.
