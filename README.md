@@ -103,13 +103,6 @@ Visitor Count:<br>
       <a href="https://github.com/Sen-Takatsuki">Yoshimura Eto</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jadaun-sahab">
-        <img src="https://avatars2.githubusercontent.com/u/112753171" width="100px;" alt="jadaun-sahab"/>
-      </a>
-      <br />
-      <a href="https://github.com/jadaun-sahab">Vikas Jadaun</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/OmarUTEC">
         <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
       </a>
@@ -136,6 +129,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ehtesham-alam">
+        <img src="https://avatars2.githubusercontent.com/u/90465695" width="100px;" alt="ehtesham-alam"/>
+      </a>
+      <br />
+      <a href="https://github.com/ehtesham-alam">Ehtesham Alam</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tianscar">
