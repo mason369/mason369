@@ -80,21 +80,12 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sen-Takatsuki">
-        <img src="https://avatars2.githubusercontent.com/u/68904509" width="100px;" alt="Sen-Takatsuki"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sen-Takatsuki">Yoshimura Eto</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AXG-coder">
         <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
       </a>
       <br />
       <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
@@ -102,6 +93,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/byeblo">
         <img src="https://avatars2.githubusercontent.com/u/52915077" width="100px;" alt="byeblo"/>
@@ -144,8 +137,22 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/gvaldzxxxx">
+        <img src="https://avatars2.githubusercontent.com/u/122252402" width="100px;" alt="gvaldzxxxx"/>
+      </a>
+      <br />
+      <a href="https://github.com/gvaldzxxxx">gvaldzxxxx</a>
+    </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://github.com/Thecosy">
+        <img src="https://avatars2.githubusercontent.com/u/87817554" width="100px;" alt="Thecosy"/>
+      </a>
+      <br />
+      <a href="https://github.com/Thecosy">NgShow</a>
+    </td>
     <td align="center">
       <a href="https://github.com/zhanghao5683934">
         <img src="https://avatars2.githubusercontent.com/u/77037525" width="100px;" alt="zhanghao5683934"/>
@@ -159,13 +166,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/Tianscar">碳酸天剑</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Thecosy">
-        <img src="https://avatars2.githubusercontent.com/u/87817554" width="100px;" alt="Thecosy"/>
-      </a>
-      <br />
-      <a href="https://github.com/Thecosy">NgShow</a>
     </td>
     <td align="center">
       <a href="https://github.com/LingASDJ">
@@ -189,11 +189,11 @@ Visitor Count:<br>
       <a href="https://github.com/tonyandeverything">ThemeTony</a>
     </td>
     <td align="center">
-      <a href="https://github.com/renqian805">
-        <img src="https://avatars2.githubusercontent.com/u/84910084" width="100px;" alt="renqian805"/>
+      <a href="https://github.com/Asilbek-web">
+        <img src="https://avatars2.githubusercontent.com/u/113827516" width="100px;" alt="Asilbek-web"/>
       </a>
       <br />
-      <a href="https://github.com/renqian805">renqian805</a>
+      <a href="https://github.com/Asilbek-web">Asilbek Boysoatov</a>
     </td>
   </tr>
 </table>
