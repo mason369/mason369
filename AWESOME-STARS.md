@@ -111,7 +111,7 @@
 - [zouyongzou/electron-forge-publisher-oss](https://github.com/zouyongzou/electron-forge-publisher-oss) - Electron Forge Publisher OSS that publish your distributable Electron app artifacts to Aliyun Object Storage Service (OSS).
 - [Lrunlin/blog](https://github.com/Lrunlin/blog) - 使用Next.js+React.js+Koa+Typescript搭建的技术博客社区
 - [cpagejs/cate-design](https://github.com/cpagejs/cate-design) - cate-design 一个基于vue3的前端UI框架，简单易用
-- [NervJS/tarojs-plugin-platform-nextjs](https://github.com/NervJS/tarojs-plugin-platform-nextjs) - 让 Taro H5 支持 Pre-rendering、SSR 和 ISR，极致的首屏速度🚀，利于 SEO🔍。
+- [NervJS/tarojs-plugin-platform-nextjs](https://github.com/NervJS/tarojs-plugin-platform-nextjs) - 让 Taro H5 支持 Pre-rendering、SSR 和 ISR，极致的首屏速度🚀，利于 SEO🔍
 - [sanjayheaven/gganbu-admin-FE](https://github.com/sanjayheaven/gganbu-admin-FE) - An out-of-box Background Management System based on RBAC. 📦 开箱即用的权限后台管理系统.
 
 ## Vue 
