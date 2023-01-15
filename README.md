@@ -87,20 +87,27 @@ Visitor Count:<br>
       <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
     <td align="center">
+      <a href="https://github.com/byeblo">
+        <img src="https://avatars2.githubusercontent.com/u/52915077" width="100px;" alt="byeblo"/>
+      </a>
+      <br />
+      <a href="https://github.com/byeblo">byeblo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://github.com/byeblo">
-        <img src="https://avatars2.githubusercontent.com/u/52915077" width="100px;" alt="byeblo"/>
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
       </a>
       <br />
-      <a href="https://github.com/byeblo">byeblo</a>
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
       <a href="https://github.com/OmarUTEC">
@@ -117,6 +124,13 @@ Visitor Count:<br>
       <a href="https://github.com/prAhmed20">Ahmed Abd Elsalam</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sglkc">
+        <img src="https://avatars2.githubusercontent.com/u/31957516" width="100px;" alt="sglkc"/>
+      </a>
+      <br />
+      <a href="https://github.com/sglkc">Seya</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CarthikYes">
         <img src="https://avatars2.githubusercontent.com/u/104158790" width="100px;" alt="CarthikYes"/>
       </a>
@@ -130,6 +144,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/MaheenMohid">Maheen Mohiuddin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lucasamorimd">
         <img src="https://avatars2.githubusercontent.com/u/23130494" width="100px;" alt="lucasamorimd"/>
@@ -138,14 +154,19 @@ Visitor Count:<br>
       <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
     </td>
     <td align="center">
+      <a href="https://github.com/MariaE-duarda">
+        <img src="https://avatars2.githubusercontent.com/u/95583989" width="100px;" alt="MariaE-duarda"/>
+      </a>
+      <br />
+      <a href="https://github.com/MariaE-duarda">M° Eduarda de A. Freire</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gvaldzxxxx">
         <img src="https://avatars2.githubusercontent.com/u/122252402" width="100px;" alt="gvaldzxxxx"/>
       </a>
       <br />
       <a href="https://github.com/gvaldzxxxx">gvaldzxxxx</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Thecosy">
         <img src="https://avatars2.githubusercontent.com/u/87817554" width="100px;" alt="Thecosy"/>
@@ -173,27 +194,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/LingASDJ">JDSA Ling</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zlx1134558955">
-        <img src="https://avatars2.githubusercontent.com/u/45356039" width="100px;" alt="zlx1134558955"/>
-      </a>
-      <br />
-      <a href="https://github.com/zlx1134558955">zlx1134558955</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tonyandeverything">
-        <img src="https://avatars2.githubusercontent.com/u/50584032" width="100px;" alt="tonyandeverything"/>
-      </a>
-      <br />
-      <a href="https://github.com/tonyandeverything">ThemeTony</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Asilbek-web">
-        <img src="https://avatars2.githubusercontent.com/u/113827516" width="100px;" alt="Asilbek-web"/>
-      </a>
-      <br />
-      <a href="https://github.com/Asilbek-web">Asilbek Boysoatov</a>
     </td>
   </tr>
 </table>
