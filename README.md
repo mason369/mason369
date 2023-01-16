@@ -8,7 +8,6 @@ I'm **Mason**.
 
 <img height="60" src="https://skillicons.dev/icons?i=git,vscode,vue,html,css,js,ts,scss,bootstrap,jquery,vite,nodejs,c&perline=10&theme=light" />
 
-
 **Tools and Environments**
 
 
