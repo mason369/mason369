@@ -153,18 +153,18 @@ Visitor Count:<br>
       <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MariaE-duarda">
-        <img src="https://avatars2.githubusercontent.com/u/95583989" width="100px;" alt="MariaE-duarda"/>
-      </a>
-      <br />
-      <a href="https://github.com/MariaE-duarda">M° Eduarda de A. Freire</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gvaldzxxxx">
         <img src="https://avatars2.githubusercontent.com/u/122252402" width="100px;" alt="gvaldzxxxx"/>
       </a>
       <br />
       <a href="https://github.com/gvaldzxxxx">gvaldzxxxx</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MariaE-duarda">
+        <img src="https://avatars2.githubusercontent.com/u/95583989" width="100px;" alt="MariaE-duarda"/>
+      </a>
+      <br />
+      <a href="https://github.com/MariaE-duarda">M° Eduarda de A. Freire</a>
     </td>
     <td align="center">
       <a href="https://github.com/Thecosy">
