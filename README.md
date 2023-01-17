@@ -79,18 +79,18 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AXG-coder">
-        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
-      </a>
-      <br />
-      <a href="https://github.com/AXG-coder">Aziz falah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/byeblo">
         <img src="https://avatars2.githubusercontent.com/u/52915077" width="100px;" alt="byeblo"/>
       </a>
       <br />
       <a href="https://github.com/byeblo">byeblo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AXG-coder">
+        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
+      </a>
+      <br />
+      <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
   </tr>
   <tr>
@@ -146,13 +146,6 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/lucasamorimd">
-        <img src="https://avatars2.githubusercontent.com/u/23130494" width="100px;" alt="lucasamorimd"/>
-      </a>
-      <br />
-      <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gvaldzxxxx">
         <img src="https://avatars2.githubusercontent.com/u/122252402" width="100px;" alt="gvaldzxxxx"/>
       </a>
@@ -160,11 +153,25 @@ Visitor Count:<br>
       <a href="https://github.com/gvaldzxxxx">gvaldzxxxx</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lucasamorimd">
+        <img src="https://avatars2.githubusercontent.com/u/23130494" width="100px;" alt="lucasamorimd"/>
+      </a>
+      <br />
+      <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/MariaE-duarda">
         <img src="https://avatars2.githubusercontent.com/u/95583989" width="100px;" alt="MariaE-duarda"/>
       </a>
       <br />
       <a href="https://github.com/MariaE-duarda">M° Eduarda de A. Freire</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/larrymahumot">
+        <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
+      </a>
+      <br />
+      <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
     </td>
     <td align="center">
       <a href="https://github.com/Thecosy">
@@ -186,13 +193,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/Tianscar">碳酸天剑</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/LingASDJ">
-        <img src="https://avatars2.githubusercontent.com/u/70191651" width="100px;" alt="LingASDJ"/>
-      </a>
-      <br />
-      <a href="https://github.com/LingASDJ">JDSA Ling</a>
     </td>
   </tr>
 </table>
