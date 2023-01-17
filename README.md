@@ -116,11 +116,11 @@ Visitor Count:<br>
       <a href="https://github.com/OmarUTEC">Om@r</a>
     </td>
     <td align="center">
-      <a href="https://github.com/prAhmed20">
-        <img src="https://avatars2.githubusercontent.com/u/75587814" width="100px;" alt="prAhmed20"/>
+      <a href="https://github.com/ahmedabdelsalam22">
+        <img src="https://avatars2.githubusercontent.com/u/75587814" width="100px;" alt="ahmedabdelsalam22"/>
       </a>
       <br />
-      <a href="https://github.com/prAhmed20">Ahmed Abd Elsalam</a>
+      <a href="https://github.com/ahmedabdelsalam22">Ahmed Abd Elsalam</a>
     </td>
     <td align="center">
       <a href="https://github.com/sglkc">
