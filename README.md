@@ -79,18 +79,18 @@ Visitor Count:<br>
       <a href="https://github.com/byeblo">byeblo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kulikov-dev">
-        <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
-      </a>
-      <br />
-      <a href="https://github.com/kulikov-dev">kulikov-dev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AXG-coder">
         <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
       </a>
       <br />
       <a href="https://github.com/AXG-coder">Aziz falah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kulikov-dev">
+        <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
+      </a>
+      <br />
+      <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
   </tr>
   <tr>
@@ -109,18 +109,18 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/OmarUTEC">
-        <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
-      </a>
-      <br />
-      <a href="https://github.com/OmarUTEC">Om@r</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/larrymahumot">
         <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
       </a>
       <br />
       <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OmarUTEC">
+        <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
+      </a>
+      <br />
+      <a href="https://github.com/OmarUTEC">Om@r</a>
     </td>
     <td align="center">
       <a href="https://github.com/ahmedabdelsalam22">
