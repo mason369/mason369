@@ -108,6 +108,7 @@
 
 ## TypeScript 
 
+- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [zouyongzou/electron-forge-publisher-oss](https://github.com/zouyongzou/electron-forge-publisher-oss) - Electron Forge Publisher OSS that publish your distributable Electron app artifacts to Aliyun Object Storage Service (OSS).
 - [Lrunlin/blog](https://github.com/Lrunlin/blog) - 使用Next.js+React.js+Koa+Typescript搭建的技术博客社区
 - [cpagejs/cate-design](https://github.com/cpagejs/cate-design) - cate-design 一个基于vue3的前端UI框架，简单易用
