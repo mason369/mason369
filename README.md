@@ -109,6 +109,13 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/scoobytux">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
+      </a>
+      <br />
+      <a href="https://github.com/scoobytux">Tu Le</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/larrymahumot">
         <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
       </a>
@@ -136,6 +143,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/sglkc">Seya</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/CarthikYes">
         <img src="https://avatars2.githubusercontent.com/u/104158790" width="100px;" alt="CarthikYes"/>
@@ -143,8 +152,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/CarthikYes">Karthik S ✔️</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/MaheenMohid">
         <img src="https://avatars2.githubusercontent.com/u/117740011" width="100px;" alt="MaheenMohid"/>
@@ -186,13 +193,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/zhanghao5683934">zhanghao5683934</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Tianscar">
-        <img src="https://avatars2.githubusercontent.com/u/51444057" width="100px;" alt="Tianscar"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tianscar">碳酸天剑</a>
     </td>
   </tr>
 </table>
