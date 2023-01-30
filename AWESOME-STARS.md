@@ -68,6 +68,7 @@
 - [liaoaoyang/TinyWaste](https://github.com/liaoaoyang/TinyWaste) - Archive of TinyWaste Game written by @mikiashiki
 - [hellojuantu/image_border_optimizer](https://github.com/hellojuantu/image_border_optimizer) - 轻量化的图片编辑器
 - [Alie-z/nodejs-koa-blog](https://github.com/Alie-z/nodejs-koa-blog) - 基于 Node.js Koa2 实战开发的一套完整的博客项目网站
+- [School-of-Website-Engineering/TinyWaste](https://github.com/School-of-Website-Engineering/TinyWaste) - 文字交互的游戏
 
 ## Jupyter Notebook 
 
@@ -119,7 +120,6 @@
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [liusxs/System](https://github.com/liusxs/System) - 
 - [mason369/E-commerce](https://github.com/mason369/E-commerce) - 
-- [School-of-Website-Engineering/TinyWaste](https://github.com/School-of-Website-Engineering/TinyWaste) - 文字交互的游戏
 
 
 ## License
