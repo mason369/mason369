@@ -145,6 +145,13 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/neddy34">
+        <img src="https://avatars2.githubusercontent.com/u/13149596" width="100px;" alt="neddy34"/>
+      </a>
+      <br />
+      <a href="https://github.com/neddy34">Edward Lee</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sglkc">
         <img src="https://avatars2.githubusercontent.com/u/31957516" width="100px;" alt="sglkc"/>
       </a>
@@ -185,13 +192,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/MariaE-duarda">M° Eduarda de A. Freire</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Thecosy">
-        <img src="https://avatars2.githubusercontent.com/u/87817554" width="100px;" alt="Thecosy"/>
-      </a>
-      <br />
-      <a href="https://github.com/Thecosy">NgShow</a>
     </td>
   </tr>
 </table>
