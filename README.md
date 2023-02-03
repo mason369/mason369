@@ -129,27 +129,27 @@ Visitor Count:<br>
       <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
     </td>
     <td align="center">
+      <a href="https://github.com/neddy34">
+        <img src="https://avatars2.githubusercontent.com/u/13149596" width="100px;" alt="neddy34"/>
+      </a>
+      <br />
+      <a href="https://github.com/neddy34">Edward Lee</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/OmarUTEC">
         <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
       </a>
       <br />
       <a href="https://github.com/OmarUTEC">Om@r</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ahmedabdelsalam22">
         <img src="https://avatars2.githubusercontent.com/u/75587814" width="100px;" alt="ahmedabdelsalam22"/>
       </a>
       <br />
       <a href="https://github.com/ahmedabdelsalam22">Ahmed Abd Elsalam</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/neddy34">
-        <img src="https://avatars2.githubusercontent.com/u/13149596" width="100px;" alt="neddy34"/>
-      </a>
-      <br />
-      <a href="https://github.com/neddy34">Edward Lee</a>
     </td>
     <td align="center">
       <a href="https://github.com/sglkc">
