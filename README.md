@@ -129,12 +129,21 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DGS1337">
+        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
+      </a>
+      <br />
+      <a href="https://github.com/DGS1337">DouG Kalash</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/larrymahumot">
         <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
       </a>
       <br />
       <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/OmarUTEC">
         <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
@@ -142,8 +151,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/OmarUTEC">Om@r</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ahmedabdelsalam22">
         <img src="https://avatars2.githubusercontent.com/u/75587814" width="100px;" alt="ahmedabdelsalam22"/>
@@ -185,13 +192,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MariaE-duarda">
-        <img src="https://avatars2.githubusercontent.com/u/95583989" width="100px;" alt="MariaE-duarda"/>
-      </a>
-      <br />
-      <a href="https://github.com/MariaE-duarda">M° Eduarda de A. Freire</a>
     </td>
   </tr>
 </table>
