@@ -114,7 +114,7 @@
 
 - [School-of-Website-Engineering/Knock-Ding-Yanxuan](https://github.com/School-of-Website-Engineering/Knock-Ding-Yanxuan) - 叩丁严选商城项目-KOUDINGLANG
 - [readpage/undraw-ui](https://github.com/readpage/undraw-ui) - vue评论组件，🔥基于vue3的UI组件，主要功能有评论，聊天，搜索，锚点。你的⭐️Star ，是作者开发的动力！
-- [xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+- [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 - [LOUSANPANG/fe-workflow](https://github.com/LOUSANPANG/fe-workflow) - 📃 FE Engineering Construction Guide Refspec 前端工程化操作指南文档
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [liusxs/System](https://github.com/liusxs/System) - 
