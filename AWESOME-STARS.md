@@ -119,7 +119,7 @@
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [liusxs/System](https://github.com/liusxs/System) - 
 - [mason369/E-commerce](https://github.com/mason369/E-commerce) - 
-- [School-of-Website-Engineering/TinyWaste](https://github.com/School-of-Website-Engineering/TinyWaste) - 文字交互的游戏
+- [School-of-Website-Engineering/STARART](https://github.com/School-of-Website-Engineering/STARART) - 星之往昔-STARART【文字冒险生存跑团游戏】---点击下方链接开始游戏【项目正在开发中，敬请期待】
 
 
 ## License
