@@ -71,13 +71,6 @@ Visitor Count:<br>
       <a href="https://github.com/Kwynto">Constantine Zavezeon</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AXG-coder">
-        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
-      </a>
-      <br />
-      <a href="https://github.com/AXG-coder">Aziz falah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/411112">
         <img src="https://avatars2.githubusercontent.com/u/94780994" width="100px;" alt="411112"/>
       </a>
@@ -91,14 +84,21 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/scoobytux">
         <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
       </a>
       <br />
       <a href="https://github.com/scoobytux">Tu Le</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AXG-coder">
+        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
+      </a>
+      <br />
+      <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
     <td align="center">
       <a href="https://github.com/kulikov-dev">
