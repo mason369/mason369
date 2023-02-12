@@ -71,7 +71,7 @@
 
 ## Jupyter Notebook 
 
-- [Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics) - Implementation/Tutorial of using Automated Machine Learning (AutoML) methods for static/batch and online data analytics
+- [Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics) - Implementation/Tutorial of using Automated Machine Learning (AutoML) methods for static/batch and online/continual learning
 
 ## Kotlin 
 
