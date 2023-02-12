@@ -108,6 +108,13 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
+      <a href="https://github.com/annie-n3">
+        <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="annie-n3"/>
+      </a>
+      <br />
+      <a href="https://github.com/annie-n3">annie-n3</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
@@ -135,6 +142,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/larrymahumot">
         <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
@@ -142,8 +151,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/OmarUTEC">
         <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
@@ -185,13 +192,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/gvaldzxxxx">gvaldzxxxx</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lucasamorimd">
-        <img src="https://avatars2.githubusercontent.com/u/23130494" width="100px;" alt="lucasamorimd"/>
-      </a>
-      <br />
-      <a href="https://github.com/lucasamorimd">Lucas Amorim</a>
     </td>
   </tr>
 </table>
