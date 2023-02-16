@@ -122,13 +122,6 @@ Visitor Count:<br>
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DGS1337">
-        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
-      </a>
-      <br />
-      <a href="https://github.com/DGS1337">DouG Kalash</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/neddy34">
         <img src="https://avatars2.githubusercontent.com/u/13149596" width="100px;" alt="neddy34"/>
       </a>
@@ -142,8 +135,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/larrymahumot">
         <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
@@ -151,6 +142,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/OmarUTEC">
         <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
@@ -180,6 +173,13 @@ Visitor Count:<br>
       <a href="https://github.com/CarthikYes">Karthik S ✔️</a>
     </td>
     <td align="center">
+      <a href="https://github.com/MaheenMohid">
+        <img src="https://avatars2.githubusercontent.com/u/117740011" width="100px;" alt="MaheenMohid"/>
+      </a>
+      <br />
+      <a href="https://github.com/MaheenMohid">Maheen Mohiuddin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gvaldzxxxx">
         <img src="https://avatars2.githubusercontent.com/u/122252402" width="100px;" alt="gvaldzxxxx"/>
       </a>
@@ -187,11 +187,11 @@ Visitor Count:<br>
       <a href="https://github.com/gvaldzxxxx">gvaldzxxxx</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MaheenMohid">
-        <img src="https://avatars2.githubusercontent.com/u/117740011" width="100px;" alt="MaheenMohid"/>
+      <a href="https://github.com/Dev-SalamSheikh">
+        <img src="https://avatars2.githubusercontent.com/u/94852238" width="100px;" alt="Dev-SalamSheikh"/>
       </a>
       <br />
-      <a href="https://github.com/MaheenMohid">Maheen Mohiuddin</a>
+      <a href="https://github.com/Dev-SalamSheikh">Salam Sheikh</a>
     </td>
   </tr>
 </table>
