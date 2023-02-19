@@ -136,20 +136,20 @@ Visitor Count:<br>
       <a href="https://github.com/neddy34">Edward Lee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
-      </a>
-      <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Blackwave1337">
         <img src="https://avatars2.githubusercontent.com/u/101115908" width="100px;" alt="Blackwave1337"/>
       </a>
       <br />
       <a href="https://github.com/Blackwave1337">Blackwave1337</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      </a>
+      <br />
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
       <a href="https://github.com/larrymahumot">
