@@ -94,18 +94,18 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/AXG-coder">
-        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
-      </a>
-      <br />
-      <a href="https://github.com/AXG-coder">Aziz falah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kulikov-dev">
         <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
       </a>
       <br />
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AXG-coder">
+        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
+      </a>
+      <br />
+      <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
     <td align="center">
       <a href="https://github.com/DGS1337">
@@ -144,6 +144,13 @@ Visitor Count:<br>
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://github.com/Gizachew29">
+        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gizachew29">Gizachew</a>
+    </td>
     <td align="center">
       <a href="https://github.com/larrymahumot">
         <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
@@ -185,13 +192,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/MaheenMohid">Maheen Mohiuddin</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Dev-SalamSheikh">
-        <img src="https://avatars2.githubusercontent.com/u/94852238" width="100px;" alt="Dev-SalamSheikh"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dev-SalamSheikh">Salam Sheikh</a>
     </td>
   </tr>
 </table>
