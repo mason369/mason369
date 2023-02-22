@@ -122,6 +122,13 @@ Visitor Count:<br>
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ozboware">
+        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
+      </a>
+      <br />
+      <a href="https://github.com/ozboware">ozboware</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/neddy34">
         <img src="https://avatars2.githubusercontent.com/u/13149596" width="100px;" alt="neddy34"/>
       </a>
@@ -135,13 +142,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/Blackwave1337">Blackwave1337</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
-      </a>
-      <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -150,6 +150,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/Gizachew29">Gizachew</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      </a>
+      <br />
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
       <a href="https://github.com/larrymahumot">
@@ -185,13 +192,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/CarthikYes">Karthik S ✔️</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MaheenMohid">
-        <img src="https://avatars2.githubusercontent.com/u/117740011" width="100px;" alt="MaheenMohid"/>
-      </a>
-      <br />
-      <a href="https://github.com/MaheenMohid">Maheen Mohiuddin</a>
     </td>
   </tr>
 </table>
