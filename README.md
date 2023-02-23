@@ -108,6 +108,13 @@ Visitor Count:<br>
       <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ozboware">
+        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
+      </a>
+      <br />
+      <a href="https://github.com/ozboware">ozboware</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/DGS1337">
         <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
       </a>
@@ -120,13 +127,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ozboware">
-        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
-      </a>
-      <br />
-      <a href="https://github.com/ozboware">ozboware</a>
     </td>
     <td align="center">
       <a href="https://github.com/neddy34">
