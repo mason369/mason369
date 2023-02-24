@@ -173,6 +173,13 @@ Visitor Count:<br>
       <a href="https://github.com/OmarUTEC">Om@r</a>
     </td>
     <td align="center">
+      <a href="https://github.com/richardrobertov">
+        <img src="https://avatars2.githubusercontent.com/u/123779099" width="100px;" alt="richardrobertov"/>
+      </a>
+      <br />
+      <a href="https://github.com/richardrobertov">Richard Robertov</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ahmedabdelsalam22">
         <img src="https://avatars2.githubusercontent.com/u/75587814" width="100px;" alt="ahmedabdelsalam22"/>
       </a>
@@ -185,13 +192,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/sglkc">Seya</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/CarthikYes">
-        <img src="https://avatars2.githubusercontent.com/u/104158790" width="100px;" alt="CarthikYes"/>
-      </a>
-      <br />
-      <a href="https://github.com/CarthikYes">Karthik S ✔️</a>
     </td>
   </tr>
 </table>
