@@ -78,18 +78,18 @@ Visitor Count:<br>
       <a href="https://github.com/411112">0x411112</a>
     </td>
     <td align="center">
-      <a href="https://github.com/scoobytux">
-        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
-      </a>
-      <br />
-      <a href="https://github.com/scoobytux">Tu Le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/annie-n3">
         <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="annie-n3"/>
       </a>
       <br />
       <a href="https://github.com/annie-n3">annie-n3</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/scoobytux">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
+      </a>
+      <br />
+      <a href="https://github.com/scoobytux">Tu Le</a>
     </td>
   </tr>
   <tr>
