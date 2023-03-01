@@ -94,6 +94,7 @@
 
 ## Python 
 
+- [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 高稳定性、低耦合、支持插件的 ChatGPT QQ 机器人
 - [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试\iOS性能测试\移动端性能测试\APP性能测试）
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
