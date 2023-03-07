@@ -115,6 +115,13 @@ Visitor Count:<br>
       <a href="https://github.com/ozboware">ozboware</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DGS1337">
+        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
+      </a>
+      <br />
+      <a href="https://github.com/DGS1337">DouG Kalash</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
@@ -135,6 +142,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/NazmusSayad">
         <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
@@ -142,8 +151,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/larrymahumot">
         <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
@@ -173,13 +180,6 @@ Visitor Count:<br>
       <a href="https://github.com/Dev-SalamSheikh">Salam Sheikh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sglkc">
-        <img src="https://avatars2.githubusercontent.com/u/31957516" width="100px;" alt="sglkc"/>
-      </a>
-      <br />
-      <a href="https://github.com/sglkc">Seya</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AshrafUzzaman04">
         <img src="https://avatars2.githubusercontent.com/u/103328494" width="100px;" alt="AshrafUzzaman04"/>
       </a>
@@ -187,11 +187,11 @@ Visitor Count:<br>
       <a href="https://github.com/AshrafUzzaman04">Ashraf Uzzaman</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ahmedabdelsalam22">
-        <img src="https://avatars2.githubusercontent.com/u/75587814" width="100px;" alt="ahmedabdelsalam22"/>
+      <a href="https://github.com/sglkc">
+        <img src="https://avatars2.githubusercontent.com/u/31957516" width="100px;" alt="sglkc"/>
       </a>
       <br />
-      <a href="https://github.com/ahmedabdelsalam22">Ahmed Abd Elsalam</a>
+      <a href="https://github.com/sglkc">Seya</a>
     </td>
   </tr>
 </table>
