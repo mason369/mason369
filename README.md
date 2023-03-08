@@ -173,6 +173,13 @@ Visitor Count:<br>
       <a href="https://github.com/OmarUTEC">Om@r</a>
     </td>
     <td align="center">
+      <a href="https://github.com/AvinandanBose">
+        <img src="https://avatars2.githubusercontent.com/u/38869235" width="100px;" alt="AvinandanBose"/>
+      </a>
+      <br />
+      <a href="https://github.com/AvinandanBose">Avinandan Bose</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Dev-SalamSheikh">
         <img src="https://avatars2.githubusercontent.com/u/94852238" width="100px;" alt="Dev-SalamSheikh"/>
       </a>
@@ -185,13 +192,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/AshrafUzzaman04">Ashraf Uzzaman</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sglkc">
-        <img src="https://avatars2.githubusercontent.com/u/31957516" width="100px;" alt="sglkc"/>
-      </a>
-      <br />
-      <a href="https://github.com/sglkc">Seya</a>
     </td>
   </tr>
 </table>
