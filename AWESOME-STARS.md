@@ -30,7 +30,6 @@
 
 - [School-of-Website-Engineering/Rosy-DR-Code-Ling](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling) - Rosy-DR-Code-Ling的Web页面，SOWE前端开发团队匠心维护
 - [Galaxy-Wish-Star/Rural-revitalization-agricultural-assistance-services](https://github.com/Galaxy-Wish-Star/Rural-revitalization-agricultural-assistance-services) - 乡村振兴，助农服务前端静态页面开发项目，Galaxy团队重磅制作
-- [LingASDJ/MagicLingPixelDungeon_Sing](https://github.com/LingASDJ/MagicLingPixelDungeon_Sing) - Ling Web Page
 
 ## Dockerfile 
 
@@ -99,7 +98,7 @@
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Official implementation of paper "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model"
-- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 32 stars and 1 forks 🌟
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 32 stars and 2 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
 ## TypeScript 
