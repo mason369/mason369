@@ -63,7 +63,7 @@
 ## JavaScript 
 
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Nginx + Vue3 + Lua.
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
 - [liaoaoyang/TinyWaste](https://github.com/liaoaoyang/TinyWaste) - Archive of TinyWaste Game written by @mikiashiki
 - [hellojuantu/image_border_optimizer](https://github.com/hellojuantu/image_border_optimizer) - 轻量化的图片编辑器
 - [Alie-z/nodejs-koa-blog](https://github.com/Alie-z/nodejs-koa-blog) - 基于 Node.js Koa2 实战开发的一套完整的博客项目网站
@@ -98,7 +98,7 @@
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Official implementation of paper "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model"
-- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 32 stars and 2 forks 🌟
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 32 stars and 1 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
 ## TypeScript 
