@@ -152,18 +152,18 @@ Visitor Count:<br>
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
-      </a>
-      <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/richardrobertov">
         <img src="https://avatars2.githubusercontent.com/u/123779099" width="100px;" alt="richardrobertov"/>
       </a>
       <br />
       <a href="https://github.com/richardrobertov">Richard Robertov</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      </a>
+      <br />
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
       <a href="https://github.com/larrymahumot">
@@ -180,18 +180,18 @@ Visitor Count:<br>
       <a href="https://github.com/OmarUTEC">Om@r</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AvinandanBose">
-        <img src="https://avatars2.githubusercontent.com/u/38869235" width="100px;" alt="AvinandanBose"/>
-      </a>
-      <br />
-      <a href="https://github.com/AvinandanBose">Avinandan Bose</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Abolfazlghaseemi">
         <img src="https://avatars2.githubusercontent.com/u/85543976" width="100px;" alt="Abolfazlghaseemi"/>
       </a>
       <br />
       <a href="https://github.com/Abolfazlghaseemi">Abolfazl.ghaseemi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AvinandanBose">
+        <img src="https://avatars2.githubusercontent.com/u/38869235" width="100px;" alt="AvinandanBose"/>
+      </a>
+      <br />
+      <a href="https://github.com/AvinandanBose">Avinandan Bose</a>
     </td>
   </tr>
 </table>
