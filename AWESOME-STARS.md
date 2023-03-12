@@ -43,7 +43,6 @@
 ## HTML 
 
 - [liusxs/liuliu](https://github.com/liusxs/liuliu) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [liusxs/Project](https://github.com/liusxs/Project) - 
 - [mason369/Mason_blog](https://github.com/mason369/Mason_blog) - Base on PortfolYOU jekyll theme.
 
 ## Java 
