@@ -145,13 +145,6 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Gizachew29">
-        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gizachew29">Gizachew</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/richardrobertov">
         <img src="https://avatars2.githubusercontent.com/u/123779099" width="100px;" alt="richardrobertov"/>
       </a>
@@ -166,6 +159,13 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Gizachew29">
+        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gizachew29">Gizachew</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/larrymahumot">
         <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
       </a>
@@ -173,18 +173,18 @@ Visitor Count:<br>
       <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
     </td>
     <td align="center">
-      <a href="https://github.com/OmarUTEC">
-        <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
-      </a>
-      <br />
-      <a href="https://github.com/OmarUTEC">Om@r</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Abolfazlghaseemi">
         <img src="https://avatars2.githubusercontent.com/u/85543976" width="100px;" alt="Abolfazlghaseemi"/>
       </a>
       <br />
       <a href="https://github.com/Abolfazlghaseemi">Abolfazl.ghaseemi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OmarUTEC">
+        <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
+      </a>
+      <br />
+      <a href="https://github.com/OmarUTEC">Om@r</a>
     </td>
     <td align="center">
       <a href="https://github.com/AvinandanBose">
