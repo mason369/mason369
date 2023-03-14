@@ -18,6 +18,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Rust](#rust)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -99,6 +100,10 @@
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Official implementation of paper "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model"
 - [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 32 stars and 1 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
+
+## Rust 
+
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## TypeScript 
 
