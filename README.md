@@ -108,6 +108,13 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DGS1337">
+        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
+      </a>
+      <br />
+      <a href="https://github.com/DGS1337">DouG Kalash</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/AXG-coder">
         <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
       </a>
@@ -120,13 +127,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/ozboware">ozboware</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DGS1337">
-        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
-      </a>
-      <br />
-      <a href="https://github.com/DGS1337">DouG Kalash</a>
     </td>
     <td align="center">
       <a href="https://github.com/H-K-R">
