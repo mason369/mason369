@@ -50,6 +50,13 @@ Visitor Count:<br>
       <a href="https://github.com/gamemann">Christian Deacon</a>
     </td>
     <td align="center">
+      <a href="https://github.com/PremChapagain">
+        <img src="https://avatars2.githubusercontent.com/u/47587012" width="100px;" alt="PremChapagain"/>
+      </a>
+      <br />
+      <a href="https://github.com/PremChapagain">Prem Chapagain</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars2.githubusercontent.com/u/2605401" width="100px;" alt="kenjinote"/>
       </a>
@@ -84,6 +91,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/vjanz">Valon Januzaj</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/411112">
         <img src="https://avatars2.githubusercontent.com/u/94780994" width="100px;" alt="411112"/>
@@ -91,8 +100,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/411112">0x411112</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/scoobytux">
         <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
@@ -135,6 +142,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/neddy34">
         <img src="https://avatars2.githubusercontent.com/u/13149596" width="100px;" alt="neddy34"/>
@@ -142,8 +151,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/neddy34">Edward Lee</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/richardrobertov">
         <img src="https://avatars2.githubusercontent.com/u/123779099" width="100px;" alt="richardrobertov"/>
@@ -166,6 +173,13 @@ Visitor Count:<br>
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
+      <a href="https://github.com/omololevy">
+        <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
+      </a>
+      <br />
+      <a href="https://github.com/omololevy">Levy Omolo</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/larrymahumot">
         <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
       </a>
@@ -178,20 +192,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/Abolfazlghaseemi">Abolfazl.ghaseemi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/OmarUTEC">
-        <img src="https://avatars2.githubusercontent.com/u/91240794" width="100px;" alt="OmarUTEC"/>
-      </a>
-      <br />
-      <a href="https://github.com/OmarUTEC">Om@r</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AvinandanBose">
-        <img src="https://avatars2.githubusercontent.com/u/38869235" width="100px;" alt="AvinandanBose"/>
-      </a>
-      <br />
-      <a href="https://github.com/AvinandanBose">Avinandan Bose</a>
     </td>
   </tr>
 </table>
