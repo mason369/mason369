@@ -82,6 +82,7 @@
 
 ## Others 
 
+- [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
 - [Hank-Chrome/free-clash-node](https://github.com/Hank-Chrome/free-clash-node) - 免费clash,v2ray节点，好用，还高速！高速稳定翻墙！
 - [kaka3511/computer-graduation-design-idea](https://github.com/kaka3511/computer-graduation-design-idea) - 计算机毕业设计（源码+论文）
 - [liusxs/liusxs](https://github.com/liusxs/liusxs) - 
