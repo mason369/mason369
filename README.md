@@ -5,20 +5,48 @@ I'm **Mason**.
 
 **Languages and Frameworks**
 
-<img height="60" src="https://skillicons.dev/icons?i=git,vscode,vue,html,css,js,ts,scss,bootstrap,jquery,vite,nodejs,c&perline=10&theme=light" />
+
+<code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=vue&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=react&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=git&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=ts&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=scss&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=md&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=java&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=githubactions&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=nginx&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=regex&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=webpack&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=c&perline=1&theme=light" /></code>
 
 **Tools and Environments**
+<code><img height="25" src="https://skillicons.dev/icons?i=ae&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=androidstudio&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=atom&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=au&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=aws&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=ae&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=discord&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=docker&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=gcp&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=github&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=idea&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=linux&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=ps&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=pr&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=powershell&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=raspberrypi&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=stackoverflow&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=twitter&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=visualstudio&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=vscode&perline=1&theme=light" /></code>
 
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="25" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png?_gl=1*10616q8*_ga*MTEwMzE4MDQwOS4xNjU0NzQ0NjIw*_ga_9J976DJZ68*MTY1NTA5NzcyOC4yLjEuMTY1NTA5ODE3Ni42MA..&_ga=2.237879491.294686240.1655097729-1103180409.1654744620" alt="webstorm"></code>
-<code><img height="25" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg?_ga=2.4263475.1689069645.1670084902-1103180409.1654744620&_gl=1*15627kg*_ga*MTEwMzE4MDQwOS4xNjU0NzQ0NjIw*_ga_9J976DJZ68*MTY3MDA4NDkwMS45LjEuMTY3MDA4NTAwMC4xNi4wLjA." alt="Intellij IDEA"></code>
-<code><img height="25" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_ga=2.264831503.1689069645.1670084902-1103180409.1654744620&_gl=1*1pm73tt*_ga*MTEwMzE4MDQwOS4xNjU0NzQ0NjIw*_ga_9J976DJZ68*MTY3MDA4NDkwMS45LjEuMTY3MDA4NDk4NS4zMS4wLjA." ></code>
-<code><img height="30" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" ></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/180px-Vmware_workstation_16_icon.svg.png" ></code>
-<code><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
 总访客次数:<br>
 Visitor Count:<br>
