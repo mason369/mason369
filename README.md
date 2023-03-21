@@ -138,18 +138,18 @@ Visitor Count:<br>
       <a href="https://github.com/DGS1337">DouG Kalash</a>
     </td>
     <td align="center">
-      <a href="https://github.com/scoobytux">
-        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
-      </a>
-      <br />
-      <a href="https://github.com/scoobytux">Tu Le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kulikov-dev">
         <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
       </a>
       <br />
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/scoobytux">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
+      </a>
+      <br />
+      <a href="https://github.com/scoobytux">Tu Le</a>
     </td>
     <td align="center">
       <a href="https://github.com/AXG-coder">
@@ -166,20 +166,20 @@ Visitor Count:<br>
       <a href="https://github.com/ozboware">ozboware</a>
     </td>
     <td align="center">
-      <a href="https://github.com/H-K-R">
-        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
-      </a>
-      <br />
-      <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/temirovazat">
         <img src="https://avatars2.githubusercontent.com/u/79245174" width="100px;" alt="temirovazat"/>
       </a>
       <br />
       <a href="https://github.com/temirovazat">Temirov Azat</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/H-K-R">
+        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
+      </a>
+      <br />
+      <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
     <td align="center">
       <a href="https://github.com/neddy34">
