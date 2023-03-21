@@ -56,7 +56,7 @@
 - [Jinxqq/OutSiderAPM](https://github.com/Jinxqq/OutSiderAPM) - Powerful, comprehensice application performance management platform of Android
 - [weixiansen574/Genshin-Lyre-midi-player](https://github.com/weixiansen574/Genshin-Lyre-midi-player) - 基于无障碍的原神midi自动演奏器（自动弹琴）
 - [LingASDJ/harder-sprouted-pd](https://github.com/LingASDJ/harder-sprouted-pd) - This is HSPD in multiple languages.
-- [AnsdoShip/magic-ling-pixel-dungeon](https://github.com/AnsdoShip/magic-ling-pixel-dungeon) - Magic Ling Pixel Dungeon, started at 2021-2-12. Based on Shattered Pixel Dungeon.
+- [AnsdoShip/magic-ling-pixel-dungeon](https://github.com/AnsdoShip/magic-ling-pixel-dungeon) - 魔绫像素地牢，始于2021年2月12日。基于破碎像素地牢。（2周年)
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the source code of Pixel Dung
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 
