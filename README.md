@@ -28,7 +28,6 @@ I'm **Mason**.
 **Tools and Environments**
 
 
-<code><img height="25" src="https://skillicons.dev/icons?i=ae&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=androidstudio&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=atom&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=au&perline=1&theme=light" /></code>
