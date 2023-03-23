@@ -29,6 +29,8 @@
 
 ## CSS 
 
+- [mason369/Cai-Xukun-invites-you-to-make-a-video-call](https://github.com/mason369/Cai-Xukun-invites-you-to-make-a-video-call) - 蔡徐坤邀请你视频通话
+- [mason369/Rural-revitalization-agricultural-assistance-services](https://github.com/mason369/Rural-revitalization-agricultural-assistance-services) - 助农电商项目
 - [School-of-Website-Engineering/Rosy-DR-Code-Ling](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling) - Rosy-DR-Code-Ling的Web页面，SOWE前端开发团队匠心维护
 - [Galaxy-Wish-Star/Rural-revitalization-agricultural-assistance-services](https://github.com/Galaxy-Wish-Star/Rural-revitalization-agricultural-assistance-services) - 乡村振兴，助农服务前端静态页面开发项目，Galaxy团队重磅制作
 
@@ -43,6 +45,7 @@
 
 ## HTML 
 
+- [mason369/hydejack-starter-kit](https://github.com/mason369/hydejack-starter-kit) - 
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [liusxs/liuliu](https://github.com/liusxs/liuliu) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [mason369/Mason_blog](https://github.com/mason369/Mason_blog) - Base on PortfolYOU jekyll theme.
@@ -63,6 +66,8 @@
 
 ## JavaScript 
 
+- [mason369/Back-end-management-system-E-commerce](https://github.com/mason369/Back-end-management-system-E-commerce) - Vue2+Element-UI 电商后台管理系统
+- [mason369/juejin-helper](https://github.com/mason369/juejin-helper) - 🎠依赖 GitHub Actions 的自动化工具，用于稀土掘金每日签到、沾一沾、免费抽奖、BugFix。🍋
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
 - [liaoaoyang/TinyWaste](https://github.com/liaoaoyang/TinyWaste) - Archive of TinyWaste Game written by @mikiashiki
 - [hellojuantu/image_border_optimizer](https://github.com/hellojuantu/image_border_optimizer) - 轻量化的图片编辑器
@@ -78,6 +83,7 @@
 
 ## Markdown 
 
+- [mason369/Badges4-README.md-Profile](https://github.com/mason369/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 
 ## Others 
@@ -94,7 +100,7 @@
 
 ## Python 
 
-- [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 高稳定性、低耦合、支持插件、适配多种模型的 ChatGPT、New Bing QQ 机器人 [已支持 GPT-4 🎉]
+- [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 高稳定性、低耦合、支持插件、适配多种模型的 ChatGPT NewBing QQ 机器人 [已支持 GPT-4、New Bing 🎉]
 - [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试\iOS性能测试\移动端性能测试\APP性能测试）
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
@@ -108,6 +114,7 @@
 
 ## TypeScript 
 
+- [mason369/CRM-Vue](https://github.com/mason369/CRM-Vue) - vue3+vite+ts
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [zouyongzou/electron-forge-publisher-oss](https://github.com/zouyongzou/electron-forge-publisher-oss) - Electron Forge Publisher OSS that publish your distributable Electron app artifacts to Aliyun Object Storage Service (OSS).
 - [Lrunlin/blog](https://github.com/Lrunlin/blog) - 使用Next.js+React.js+Koa+Typescript搭建的技术博客社区
@@ -117,7 +124,8 @@
 
 ## Vue 
 
-- [School-of-Website-Engineering/future-front-end](https://github.com/School-of-Website-Engineering/future-front-end) - future项目的前端界面
+- [mason369/Knock-Ding-Yanxuan](https://github.com/mason369/Knock-Ding-Yanxuan) - 叩丁严选项目-KOUDINGLANG
+- [School-of-Website-Engineering/future-front-end](https://github.com/School-of-Website-Engineering/future-front-end) - future项目的前端代码
 - [zeorcpt/vue3-vant-mobile](https://github.com/zeorcpt/vue3-vant-mobile) - vue3.2 + vite + vant + pinia + ts 移动端 h5 项目新手实践
 - [School-of-Website-Engineering/Knock-Ding-Yanxuan](https://github.com/School-of-Website-Engineering/Knock-Ding-Yanxuan) - 叩丁严选商城项目-KOUDINGLANG
 - [readpage/undraw-ui](https://github.com/readpage/undraw-ui) - vue评论组件，🔥基于vue3的UI组件，主要功能有评论，聊天，搜索，锚点。你的⭐️Star ，是作者开发的动力！
