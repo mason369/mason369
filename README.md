@@ -195,18 +195,18 @@ Visitor Count:<br>
       <a href="https://github.com/richardrobertov">Richard Robertov</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
-      </a>
-      <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/omololevy">
         <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
       </a>
       <br />
       <a href="https://github.com/omololevy">Levy Omolo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      </a>
+      <br />
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gizachew29">
