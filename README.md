@@ -123,6 +123,13 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/DGS1337">
+        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
+      </a>
+      <br />
+      <a href="https://github.com/DGS1337">DouG Kalash</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/411112">
         <img src="https://avatars2.githubusercontent.com/u/94780994" width="100px;" alt="411112"/>
       </a>
@@ -164,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/temirovazat">Temirov Azat</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
@@ -171,8 +180,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/neddy34">
         <img src="https://avatars2.githubusercontent.com/u/13149596" width="100px;" alt="neddy34"/>
@@ -207,13 +214,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/Gizachew29">Gizachew</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/larrymahumot">
-        <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
-      </a>
-      <br />
-      <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
     </td>
     <td align="center">
       <a href="https://github.com/AynurSalimli">
