@@ -209,11 +209,11 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gizachew29">
-        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
+      <a href="https://github.com/FINIKKKK">
+        <img src="https://avatars2.githubusercontent.com/u/89292083" width="100px;" alt="FINIKKKK"/>
       </a>
       <br />
-      <a href="https://github.com/Gizachew29">Gizachew</a>
+      <a href="https://github.com/FINIKKKK">Dmitriy Bozhko</a>
     </td>
     <td align="center">
       <a href="https://github.com/AynurSalimli">
