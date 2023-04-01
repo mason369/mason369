@@ -202,11 +202,11 @@ Visitor Count:<br>
       <a href="https://github.com/omololevy">Levy Omolo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      <a href="https://github.com/AynurSalimli">
+        <img src="https://avatars2.githubusercontent.com/u/115205124" width="100px;" alt="AynurSalimli"/>
       </a>
       <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
+      <a href="https://github.com/AynurSalimli">Aynur Salimli</a>
     </td>
     <td align="center">
       <a href="https://github.com/FINIKKKK">
@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/FINIKKKK">Dmitriy Bozhko</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AynurSalimli">
-        <img src="https://avatars2.githubusercontent.com/u/115205124" width="100px;" alt="AynurSalimli"/>
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
       </a>
       <br />
-      <a href="https://github.com/AynurSalimli">AynurSalimli</a>
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
