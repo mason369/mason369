@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/omololevy">Levy Omolo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      <a href="https://github.com/gojayevmurad">
+        <img src="https://avatars2.githubusercontent.com/u/113782677" width="100px;" alt="gojayevmurad"/>
       </a>
       <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
+      <a href="https://github.com/gojayevmurad">gojayevmurad</a>
     </td>
   </tr>
 </table>
