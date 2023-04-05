@@ -209,18 +209,18 @@ Visitor Count:<br>
       <a href="https://github.com/AynurSalimli">Aynur Salimli</a>
     </td>
     <td align="center">
-      <a href="https://github.com/omololevy">
-        <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
-      </a>
-      <br />
-      <a href="https://github.com/omololevy">Levy Omolo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gojayevmurad">
         <img src="https://avatars2.githubusercontent.com/u/113782677" width="100px;" alt="gojayevmurad"/>
       </a>
       <br />
       <a href="https://github.com/gojayevmurad">gojayevmurad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/omololevy">
+        <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
+      </a>
+      <br />
+      <a href="https://github.com/omololevy">Levy Omolo</a>
     </td>
   </tr>
 </table>
