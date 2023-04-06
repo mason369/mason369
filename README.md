@@ -195,13 +195,6 @@ Visitor Count:<br>
       <a href="https://github.com/richardrobertov">Richard Robertov</a>
     </td>
     <td align="center">
-      <a href="https://github.com/FINIKKKK">
-        <img src="https://avatars2.githubusercontent.com/u/89292083" width="100px;" alt="FINIKKKK"/>
-      </a>
-      <br />
-      <a href="https://github.com/FINIKKKK">Dmitriy Bozhko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AynurSalimli">
         <img src="https://avatars2.githubusercontent.com/u/115205124" width="100px;" alt="AynurSalimli"/>
       </a>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/omololevy">Levy Omolo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      </a>
+      <br />
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
