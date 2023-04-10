@@ -45,6 +45,7 @@
 
 ## HTML 
 
+- [LingASDJ/RW-API-Code](https://github.com/LingASDJ/RW-API-Code) - Easy Code,Easy Study! Rusted Warfar API Code!
 - [mason369/hydejack-starter-kit](https://github.com/mason369/hydejack-starter-kit) - 
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [liusxs/liuliu](https://github.com/liusxs/liuliu) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -125,7 +126,7 @@
 ## Vue 
 
 - [mason369/Knock-Ding-Yanxuan](https://github.com/mason369/Knock-Ding-Yanxuan) - 叩丁严选项目-KOUDINGLANG
-- [School-of-Website-Engineering/future-front-end](https://github.com/School-of-Website-Engineering/future-front-end) - future项目的前端代码
+- [School-of-Website-Engineering/future-front-end](https://github.com/School-of-Website-Engineering/future-front-end) - future项目的前端代码，Vue3 + TypeScript + Vite + Element Plus + SCSS + Pinia，一个在线聊天室项目。UI界面与功能设计参考discord
 - [zeorcpt/vue3-vant-mobile](https://github.com/zeorcpt/vue3-vant-mobile) - vue3.2 + vite + vant + pinia + ts 移动端 h5 项目新手实践
 - [School-of-Website-Engineering/Knock-Ding-Yanxuan](https://github.com/School-of-Website-Engineering/Knock-Ding-Yanxuan) - 叩丁严选商城项目-KOUDINGLANG
 - [readpage/undraw-ui](https://github.com/readpage/undraw-ui) - vue评论组件，🔥基于vue3的UI组件，主要功能有评论，聊天，搜索，锚点。你的⭐️Star ，是作者开发的动力！
