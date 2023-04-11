@@ -45,7 +45,6 @@
 
 ## HTML 
 
-- [LingASDJ/RW-API-Code](https://github.com/LingASDJ/RW-API-Code) - Easy Code,Easy Study! Rusted Warfar API Code!
 - [mason369/hydejack-starter-kit](https://github.com/mason369/hydejack-starter-kit) - 
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [liusxs/liuliu](https://github.com/liusxs/liuliu) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -115,6 +114,8 @@
 
 ## TypeScript 
 
+- [mason369/exceptionHandling](https://github.com/mason369/exceptionHandling) - 统一为所有的异步函数添加try-catch异常捕获，在class中使用体验更佳
+- [LingASDJ/RW-API-Code](https://github.com/LingASDJ/RW-API-Code) - Easy Code,Easy Study! Rusted Warfar API Code!
 - [mason369/CRM-Vue](https://github.com/mason369/CRM-Vue) - vue3+vite+ts
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [zouyongzou/electron-forge-publisher-oss](https://github.com/zouyongzou/electron-forge-publisher-oss) - Electron Forge Publisher OSS that publish your distributable Electron app artifacts to Aliyun Object Storage Service (OSS).
