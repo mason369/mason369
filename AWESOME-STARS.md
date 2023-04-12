@@ -66,6 +66,7 @@
 
 ## JavaScript 
 
+- [LingASDJ/RW-API-Code](https://github.com/LingASDJ/RW-API-Code) - Easy Code,Easy Study! Rusted Warfar API Code!
 - [mason369/Back-end-management-system-E-commerce](https://github.com/mason369/Back-end-management-system-E-commerce) - Vue2+Element-UI 电商后台管理系统
 - [mason369/juejin-helper](https://github.com/mason369/juejin-helper) - 🎠依赖 GitHub Actions 的自动化工具，用于稀土掘金每日签到、沾一沾、免费抽奖、BugFix。🍋
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
@@ -88,6 +89,7 @@
 
 ## Others 
 
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
 - [Hank-Chrome/free-clash-node](https://github.com/Hank-Chrome/free-clash-node) - 免费clash,v2ray节点，好用，还高速！高速稳定翻墙！
 - [kaka3511/computer-graduation-design-idea](https://github.com/kaka3511/computer-graduation-design-idea) - 计算机毕业设计（源码+论文）
@@ -115,7 +117,6 @@
 ## TypeScript 
 
 - [mason369/exceptionHandling](https://github.com/mason369/exceptionHandling) - 统一为所有的异步函数添加try-catch异常捕获，在class中使用体验更佳
-- [LingASDJ/RW-API-Code](https://github.com/LingASDJ/RW-API-Code) - Easy Code,Easy Study! Rusted Warfar API Code!
 - [mason369/CRM-Vue](https://github.com/mason369/CRM-Vue) - vue3+vite+ts
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [zouyongzou/electron-forge-publisher-oss](https://github.com/zouyongzou/electron-forge-publisher-oss) - Electron Forge Publisher OSS that publish your distributable Electron app artifacts to Aliyun Object Storage Service (OSS).
