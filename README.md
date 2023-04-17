@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
-      <a href="https://github.com/larrymahumot">
-        <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
+      <a href="https://github.com/bastndev">
+        <img src="https://avatars2.githubusercontent.com/u/113950039" width="100px;" alt="bastndev"/>
       </a>
       <br />
-      <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
+      <a href="https://github.com/bastndev">Bastian Dev</a>
     </td>
   </tr>
 </table>
