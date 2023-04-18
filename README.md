@@ -165,11 +165,11 @@ Visitor Count:<br>
       <a href="https://github.com/ozboware">ozboware</a>
     </td>
     <td align="center">
-      <a href="https://github.com/temirovazat">
-        <img src="https://avatars2.githubusercontent.com/u/79245174" width="100px;" alt="temirovazat"/>
+      <a href="https://github.com/ethanflower1903">
+        <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
       </a>
       <br />
-      <a href="https://github.com/temirovazat">Temirov Azat</a>
+      <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
   </tr>
   <tr>
@@ -179,6 +179,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/temirovazat">
+        <img src="https://avatars2.githubusercontent.com/u/79245174" width="100px;" alt="temirovazat"/>
+      </a>
+      <br />
+      <a href="https://github.com/temirovazat">Temirov Azat</a>
     </td>
     <td align="center">
       <a href="https://github.com/neddy34">
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/Gizachew29">Gizachew</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bastndev">
-        <img src="https://avatars2.githubusercontent.com/u/113950039" width="100px;" alt="bastndev"/>
-      </a>
-      <br />
-      <a href="https://github.com/bastndev">Bastian Dev</a>
     </td>
   </tr>
 </table>
