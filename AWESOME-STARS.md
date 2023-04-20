@@ -106,7 +106,7 @@
 - [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试\iOS性能测试\移动端性能测试\APP性能测试）
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
-- [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Official implementation of paper "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model"
+- [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Medical Image Segmentation with Diffusion Model
 - [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 35 stars and 2 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
