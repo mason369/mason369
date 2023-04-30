@@ -100,11 +100,11 @@ Visitor Count:<br>
       <a href="https://github.com/MosFazli">Mostafa Fazli</a>
     </td>
     <td align="center">
-      <a href="https://github.com/annie-n3">
-        <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="annie-n3"/>
+      <a href="https://github.com/bl4ckh47G1rl">
+        <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="bl4ckh47G1rl"/>
       </a>
       <br />
-      <a href="https://github.com/annie-n3">annie-n3</a>
+      <a href="https://github.com/bl4ckh47G1rl">Himansh  Singh</a>
     </td>
     <td align="center">
       <a href="https://github.com/JubayerRiyad">
