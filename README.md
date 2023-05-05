@@ -181,6 +181,13 @@ Visitor Count:<br>
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
     <td align="center">
+      <a href="https://github.com/JeffersonRPM">
+        <img src="https://avatars2.githubusercontent.com/u/48998618" width="100px;" alt="JeffersonRPM"/>
+      </a>
+      <br />
+      <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/temirovazat">
         <img src="https://avatars2.githubusercontent.com/u/79245174" width="100px;" alt="temirovazat"/>
       </a>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Gizachew29">
-        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
   </tr>
 </table>
