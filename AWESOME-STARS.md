@@ -61,7 +61,7 @@
 - [Jinxqq/OutSiderAPM](https://github.com/Jinxqq/OutSiderAPM) - Powerful, comprehensice application performance management platform of Android
 - [weixiansen574/Genshin-Lyre-midi-player](https://github.com/weixiansen574/Genshin-Lyre-midi-player) - 基于无障碍的原神midi自动演奏器（自动弹琴）
 - [LingASDJ/harder-sprouted-pd](https://github.com/LingASDJ/harder-sprouted-pd) - This is HSPD in multiple languages.
-- [AnsdoShip/magic-ling-pixel-dungeon](https://github.com/AnsdoShip/magic-ling-pixel-dungeon) - 魔绫像素地牢，始于2021年2月12日。基于破碎像素地牢。（2周年)
+- [LingASDJ/Magic-Ling-Pixel-Dungeon](https://github.com/LingASDJ/Magic-Ling-Pixel-Dungeon) - 魔绫像素地牢，始于2021年2月12日。基于破碎像素地牢。（2周年)
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the source code of Pixel Dung
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 
@@ -107,7 +107,7 @@
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Medical Image Segmentation with Diffusion Model
-- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 34 stars and 1 forks 🌟
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 34 stars and 2 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
 ## Rust 
