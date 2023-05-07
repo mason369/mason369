@@ -144,6 +144,13 @@ Visitor Count:<br>
       <a href="https://github.com/DGS1337">DouG Kalash</a>
     </td>
     <td align="center">
+      <a href="https://github.com/romanofficial">
+        <img src="https://avatars2.githubusercontent.com/u/47697490" width="100px;" alt="romanofficial"/>
+      </a>
+      <br />
+      <a href="https://github.com/romanofficial">Roman Hossain Shaon</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/scoobytux">
         <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
       </a>
@@ -164,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/ozboware">ozboware</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ethanflower1903">
         <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
@@ -171,8 +180,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/omololevy">Levy Omolo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
-      </a>
-      <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
