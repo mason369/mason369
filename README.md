@@ -114,20 +114,20 @@ Visitor Count:<br>
       <a href="https://github.com/bl4ckh47G1rl">Himansh  Singh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JubayerRiyad">
-        <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
-      </a>
-      <br />
-      <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/vjanz">
         <img src="https://avatars2.githubusercontent.com/u/25842655" width="100px;" alt="vjanz"/>
       </a>
       <br />
       <a href="https://github.com/vjanz">Valon Januzaj</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JubayerRiyad">
+        <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
+      </a>
+      <br />
+      <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
     <td align="center">
       <a href="https://github.com/kulikov-dev">
@@ -137,18 +137,18 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DGS1337">
-        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
-      </a>
-      <br />
-      <a href="https://github.com/DGS1337">DouG Kalash</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/romanofficial">
         <img src="https://avatars2.githubusercontent.com/u/47697490" width="100px;" alt="romanofficial"/>
       </a>
       <br />
       <a href="https://github.com/romanofficial">Roman Hossain Shaon</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DGS1337">
+        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
+      </a>
+      <br />
+      <a href="https://github.com/DGS1337">DouG Kalash</a>
     </td>
     <td align="center">
       <a href="https://github.com/scoobytux">
@@ -195,13 +195,6 @@ Visitor Count:<br>
       <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
     </td>
     <td align="center">
-      <a href="https://github.com/temirovazat">
-        <img src="https://avatars2.githubusercontent.com/u/79245174" width="100px;" alt="temirovazat"/>
-      </a>
-      <br />
-      <a href="https://github.com/temirovazat">Temirov Azat</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/neddy34">
         <img src="https://avatars2.githubusercontent.com/u/13149596" width="100px;" alt="neddy34"/>
       </a>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/omololevy">Levy Omolo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      </a>
+      <br />
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
