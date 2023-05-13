@@ -10,6 +10,7 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
+- [INI](#ini)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -19,8 +20,10 @@
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
+- [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [XML](#xml)
 
 ## C++ 
 
@@ -45,14 +48,21 @@
 
 ## HTML 
 
+- [Yuni-Q/blog](https://github.com/Yuni-Q/blog) - 
+- [LingASDJ/Ling-Blog](https://github.com/LingASDJ/Ling-Blog) - 基于Hydrogen
 - [mason369/hydejack-starter-kit](https://github.com/mason369/hydejack-starter-kit) - 
 - [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试\iOS性能测试\移动端性能测试\APP性能测试）
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [liusxs/liuliu](https://github.com/liusxs/liuliu) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [mason369/Mason_blog](https://github.com/mason369/Mason_blog) - Base on PortfolYOU jekyll theme.
 
+## INI 
+
+- [LingASDJ/StarRiver-EndlessJourney-RW-MODS](https://github.com/LingASDJ/StarRiver-EndlessJourney-RW-MODS) - 星河征途，基于铁锈战争的一款大型策略性Mod
+
 ## Java 
 
+- [LingASDJ/SPDNET](https://github.com/LingASDJ/SPDNET) - This is spdnet public repository
 - [Raray-chuan/mini-spring](https://github.com/Raray-chuan/mini-spring) - 手写Spring,支持ioc(三级缓存)、aop(cglib)、内嵌tomcat🍃
 - [Raray-chuan/xichuan_note](https://github.com/Raray-chuan/xichuan_note) - xichuan的学习总结笔记,覆盖了java、spring、java其他常用框架,以及大数据相关组件等📚
 - [zzzzzzzzyt/zeng-rpc-framework](https://github.com/zzzzzzzzyt/zeng-rpc-framework) - 手写自己的RPC框架/Handwritten RPC framework
@@ -90,6 +100,7 @@
 
 ## Others 
 
+- [mason369/Charmve](https://github.com/mason369/Charmve) - 🤡  About Me.
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
 - [Hank-Chrome/free-clash-node](https://github.com/Hank-Chrome/free-clash-node) - 免费clash,v2ray节点，好用，还高速！高速稳定翻墙！
@@ -103,6 +114,7 @@
 
 ## Python 
 
+- [Soulter/HuggingChatForQQBot](https://github.com/Soulter/HuggingChatForQQBot) - QQChannelChatGPT的hugchat插件
 - [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🐒低耦合、🧩支持插件、适配多种模型的 ChatGPT New Bing QQ 机器人🤖
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
@@ -113,6 +125,10 @@
 ## Rust 
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+## Shell 
+
+- [wanhebin/clash-for-linux](https://github.com/wanhebin/clash-for-linux) - Linux 端使用 Clash 作为代理工具
 
 ## TypeScript 
 
@@ -137,6 +153,10 @@
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [mason369/E-commerce](https://github.com/mason369/E-commerce) - 
 - [School-of-Website-Engineering/STARART](https://github.com/School-of-Website-Engineering/STARART) - 星之往昔-STARART【文字冒险生存跑团游戏】---点击下方链接开始游戏【项目正在开发中，敬请期待】
+
+## XML 
+
+- [LingASDJ/Pixel-Dungeon-News](https://github.com/LingASDJ/Pixel-Dungeon-News) - Dungeon-News Template
 
 
 ## License
