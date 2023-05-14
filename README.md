@@ -162,7 +162,7 @@ Visitor Count:<br>
         <img src="https://avatars2.githubusercontent.com/u/115634315" width="100px;" alt="isyuricunha"/>
       </a>
       <br />
-      <a href="https://github.com/isyuricunha">Yuri Cunha</a>
+      <a href="https://github.com/isyuricunha">Yuri</a>
     </td>
     <td align="center">
       <a href="https://github.com/AXG-coder">
