@@ -151,18 +151,18 @@ Visitor Count:<br>
       <a href="https://github.com/DGS1337">DouG Kalash</a>
     </td>
     <td align="center">
-      <a href="https://github.com/scoobytux">
-        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
-      </a>
-      <br />
-      <a href="https://github.com/scoobytux">Tu Le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/isyuricunha">
         <img src="https://avatars2.githubusercontent.com/u/115634315" width="100px;" alt="isyuricunha"/>
       </a>
       <br />
       <a href="https://github.com/isyuricunha">Yuri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/scoobytux">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
+      </a>
+      <br />
+      <a href="https://github.com/scoobytux">Tu Le</a>
     </td>
     <td align="center">
       <a href="https://github.com/AXG-coder">
@@ -181,18 +181,18 @@ Visitor Count:<br>
       <a href="https://github.com/ozboware">ozboware</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ethanflower1903">
-        <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
-      </a>
-      <br />
-      <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ethanflower1903">
+        <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
+      </a>
+      <br />
+      <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
     <td align="center">
       <a href="https://github.com/JeffersonRPM">
