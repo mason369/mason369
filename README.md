@@ -111,7 +111,7 @@ Visitor Count:<br>
         <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="bl4ckh47G1rl"/>
       </a>
       <br />
-      <a href="https://github.com/bl4ckh47G1rl">Himansh  Singh</a>
+      <a href="https://github.com/bl4ckh47G1rl">Vinay Kumar</a>
     </td>
     <td align="center">
       <a href="https://github.com/vjanz">
