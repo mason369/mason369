@@ -23,7 +23,6 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-- [XML](#xml)
 
 ## C++ 
 
@@ -49,6 +48,7 @@
 ## HTML 
 
 - [Yuni-Q/blog](https://github.com/Yuni-Q/blog) - 
+- [LingASDJ/Pixel-Dungeon-News](https://github.com/LingASDJ/Pixel-Dungeon-News) - Dungeon-News Template
 - [LingASDJ/Ling-Blog](https://github.com/LingASDJ/Ling-Blog) - 基于Hydrogen
 - [mason369/hydejack-starter-kit](https://github.com/mason369/hydejack-starter-kit) - 
 - [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试\iOS性能测试\移动端性能测试\APP性能测试）
@@ -77,6 +77,7 @@
 
 ## JavaScript 
 
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [LingASDJ/RW-API-Code](https://github.com/LingASDJ/RW-API-Code) - Easy Code,Easy Study! Rusted Warfar API Code!
 - [mason369/Back-end-management-system-E-commerce](https://github.com/mason369/Back-end-management-system-E-commerce) - Vue2+Element-UI 电商后台管理系统
 - [mason369/juejin-helper](https://github.com/mason369/juejin-helper) - 🎠依赖 GitHub Actions 的自动化工具，用于稀土掘金每日签到、沾一沾、免费抽奖、BugFix。🍋
@@ -119,7 +120,7 @@
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Medical Image Segmentation with Diffusion Model
-- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 35 stars and 3 forks 🌟
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 35 stars and 2 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
 ## Rust 
@@ -153,10 +154,6 @@
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 - [mason369/E-commerce](https://github.com/mason369/E-commerce) - 
 - [School-of-Website-Engineering/STARART](https://github.com/School-of-Website-Engineering/STARART) - 星之往昔-STARART【文字冒险生存跑团游戏】---点击下方链接开始游戏【项目正在开发中，敬请期待】
-
-## XML 
-
-- [LingASDJ/Pixel-Dungeon-News](https://github.com/LingASDJ/Pixel-Dungeon-News) - Dungeon-News Template
 
 
 ## License
