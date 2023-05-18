@@ -137,6 +137,13 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
+      <a href="https://github.com/isyuricunha">
+        <img src="https://avatars2.githubusercontent.com/u/115634315" width="100px;" alt="isyuricunha"/>
+      </a>
+      <br />
+      <a href="https://github.com/isyuricunha">Yuri</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/romanofficial">
         <img src="https://avatars2.githubusercontent.com/u/47697490" width="100px;" alt="romanofficial"/>
       </a>
@@ -149,13 +156,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/DGS1337">DouG Kalash</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/isyuricunha">
-        <img src="https://avatars2.githubusercontent.com/u/115634315" width="100px;" alt="isyuricunha"/>
-      </a>
-      <br />
-      <a href="https://github.com/isyuricunha">Yuri</a>
     </td>
     <td align="center">
       <a href="https://github.com/scoobytux">
