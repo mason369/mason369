@@ -130,18 +130,18 @@ Visitor Count:<br>
       <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kulikov-dev">
-        <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
-      </a>
-      <br />
-      <a href="https://github.com/kulikov-dev">kulikov-dev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/isyuricunha">
         <img src="https://avatars2.githubusercontent.com/u/115634315" width="100px;" alt="isyuricunha"/>
       </a>
       <br />
       <a href="https://github.com/isyuricunha">Yuri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kulikov-dev">
+        <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
+      </a>
+      <br />
+      <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
       <a href="https://github.com/romanofficial">
