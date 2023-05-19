@@ -77,7 +77,6 @@
 
 ## JavaScript 
 
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [LingASDJ/RW-API-Code](https://github.com/LingASDJ/RW-API-Code) - Easy Code,Easy Study! Rusted Warfar API Code!
 - [mason369/Back-end-management-system-E-commerce](https://github.com/mason369/Back-end-management-system-E-commerce) - Vue2+Element-UI 电商后台管理系统
 - [mason369/juejin-helper](https://github.com/mason369/juejin-helper) - 🎠依赖 GitHub Actions 的自动化工具，用于稀土掘金每日签到、沾一沾、免费抽奖、BugFix。🍋
@@ -115,6 +114,7 @@
 
 ## Python 
 
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [Soulter/HuggingChatForQQBot](https://github.com/Soulter/HuggingChatForQQBot) - QQChannelChatGPT的hugchat插件
 - [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🐒低耦合、🧩支持插件、适配多种模型的 ChatGPT New Bing QQ 机器人🤖
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
