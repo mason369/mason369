@@ -174,18 +174,18 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/ozboware">
-        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
-      </a>
-      <br />
-      <a href="https://github.com/ozboware">ozboware</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ozboware">
+        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
+      </a>
+      <br />
+      <a href="https://github.com/ozboware">ozboware</a>
     </td>
     <td align="center">
       <a href="https://github.com/ethanflower1903">
