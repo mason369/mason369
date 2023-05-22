@@ -51,7 +51,7 @@
 - [LingASDJ/Pixel-Dungeon-News](https://github.com/LingASDJ/Pixel-Dungeon-News) - Dungeon-News Template
 - [LingASDJ/Ling-Blog](https://github.com/LingASDJ/Ling-Blog) - 基于Hydrogen
 - [mason369/hydejack-starter-kit](https://github.com/mason369/hydejack-starter-kit) - 
-- [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试\iOS性能测试\移动端性能测试\APP性能测试）
+- [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试android performance\iOS性能测试ios performance\移动端性能测试mobile performance\APP性能测试app performance）
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [liusxs/liuliu](https://github.com/liusxs/liuliu) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [mason369/Mason_blog](https://github.com/mason369/Mason_blog) - Base on PortfolYOU jekyll theme.
