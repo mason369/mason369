@@ -26,12 +26,12 @@
 
 ## C++ 
 
+- [PacktPublishing/Hands-On-Machine-Learning-with-CPP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP) - Hands-On Machine Learning with C++, published by Packt
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 ## CSS 
 
-- [mason369/Cai-Xukun-invites-you-to-make-a-video-call](https://github.com/mason369/Cai-Xukun-invites-you-to-make-a-video-call) - 蔡徐坤邀请你视频通话
 - [mason369/Rural-revitalization-agricultural-assistance-services](https://github.com/mason369/Rural-revitalization-agricultural-assistance-services) - 助农电商项目
 - [School-of-Website-Engineering/Rosy-DR-Code-Ling](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling) - Rosy-DR-Code-Ling的Web页面，SOWE前端开发团队匠心维护
 - [Galaxy-Wish-Star/Rural-revitalization-agricultural-assistance-services](https://github.com/Galaxy-Wish-Star/Rural-revitalization-agricultural-assistance-services) - 乡村振兴，助农服务前端静态页面开发项目，GitHub托管下网络不佳会导致静态资源加载不全
@@ -50,6 +50,7 @@
 - [Yuni-Q/blog](https://github.com/Yuni-Q/blog) - 
 - [LingASDJ/Pixel-Dungeon-News](https://github.com/LingASDJ/Pixel-Dungeon-News) - Dungeon-News Template
 - [LingASDJ/Ling-Blog](https://github.com/LingASDJ/Ling-Blog) - 基于Hydrogen
+- [mason369/Cai-Xukun-invites-you-to-make-a-video-call](https://github.com/mason369/Cai-Xukun-invites-you-to-make-a-video-call) - 蔡徐坤邀请你视频通话
 - [mason369/hydejack-starter-kit](https://github.com/mason369/hydejack-starter-kit) - 
 - [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试android performance\iOS性能测试ios performance\移动端性能测试mobile performance\APP性能测试app performance）
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
@@ -62,6 +63,8 @@
 
 ## Java 
 
+- [marvinSpring/spring-boot-starter-calma](https://github.com/marvinSpring/spring-boot-starter-calma) - 一个神奇的异常通知框架
+- [Ginyi3705/ginyi-spring-vue](https://github.com/Ginyi3705/ginyi-spring-vue) - 重构Ruoyi-Vue！基于SpringBoot和Vue3，搭配Naive UI组件库，模块清晰，界面美观，可自主选择主题色，提高视觉舒适度！欢迎Star⭐!
 - [LingASDJ/SPDNET](https://github.com/LingASDJ/SPDNET) - This is spdnet public repository
 - [Raray-chuan/mini-spring](https://github.com/Raray-chuan/mini-spring) - 手写Spring,支持ioc(三级缓存)、aop(cglib)、内嵌tomcat🍃
 - [Raray-chuan/xichuan_note](https://github.com/Raray-chuan/xichuan_note) - xichuan的学习总结笔记,覆盖了java、spring、java其他常用框架,以及大数据相关组件等📚
@@ -91,6 +94,7 @@
 
 ## Kotlin 
 
+- [hzlaoliu/modbus-master-kt](https://github.com/hzlaoliu/modbus-master-kt) - modbus master kotlin
 - [wdsqjq/FengYunWeather](https://github.com/wdsqjq/FengYunWeather) - 风云天气是Android 平台开源天气 App，采用Kotlin、Room、OKHttp3、 协程等框架实现。
 
 ## Markdown 
@@ -100,6 +104,8 @@
 
 ## Others 
 
+- [ngud-0119/NGU](https://github.com/ngud-0119/NGU) - Never Give Up
+- [MoMeak9/MyDocs](https://github.com/MoMeak9/MyDocs) - Vuepress-based personal document center
 - [mason369/Charmve](https://github.com/mason369/Charmve) - 🤡  About Me.
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
@@ -145,7 +151,7 @@
 ## Vue 
 
 - [mason369/Knock-Ding-Yanxuan](https://github.com/mason369/Knock-Ding-Yanxuan) - 叩丁严选项目-KOUDINGLANG
-- [School-of-Website-Engineering/future-front-end](https://github.com/School-of-Website-Engineering/future-front-end) - future项目的前端代码，Vue3 + TypeScript + Vite + Element Plus + SCSS + Pinia，一个在线聊天室项目。UI界面与功能设计参考discord
+- [School-of-Website-Engineering/future-front-end](https://github.com/School-of-Website-Engineering/future-front-end) - future项目的前端代码，Vue3 + TypeScript + Vite + Element Plus + SCSS + Pinia，一个在线聊天室项目。
 - [zeorcpt/vue3-vant-mobile](https://github.com/zeorcpt/vue3-vant-mobile) - vue3.2 + vite + vant + pinia + ts 移动端 h5 项目新手实践
 - [School-of-Website-Engineering/Knock-Ding-Yanxuan](https://github.com/School-of-Website-Engineering/Knock-Ding-Yanxuan) - 叩丁严选商城项目-KOUDINGLANG
 - [readpage/undraw-ui](https://github.com/readpage/undraw-ui) - vue评论组件，🔥基于vue3的UI组件，主要功能有评论，聊天，搜索，锚点。你的⭐️Star ，是作者开发的动力！
