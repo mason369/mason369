@@ -202,18 +202,18 @@ Visitor Count:<br>
       <a href="https://github.com/neddy34">Edward Lee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/stalk0">
-        <img src="https://avatars2.githubusercontent.com/u/123779099" width="100px;" alt="stalk0"/>
-      </a>
-      <br />
-      <a href="https://github.com/stalk0">Richard Stalk0</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Gizachew29">
         <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
       </a>
       <br />
       <a href="https://github.com/Gizachew29">Gizachew</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/stalk0">
+        <img src="https://avatars2.githubusercontent.com/u/123779099" width="100px;" alt="stalk0"/>
+      </a>
+      <br />
+      <a href="https://github.com/stalk0">stalk0</a>
     </td>
     <td align="center">
       <a href="https://github.com/omololevy">
