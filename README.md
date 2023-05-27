@@ -123,13 +123,6 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/isyuricunha">
-        <img src="https://avatars2.githubusercontent.com/u/115634315" width="100px;" alt="isyuricunha"/>
-      </a>
-      <br />
-      <a href="https://github.com/isyuricunha">Yuri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kulikov-dev">
         <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
       </a>
@@ -171,8 +164,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ozboware">
         <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
@@ -180,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/ozboware">ozboware</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ethanflower1903">
         <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/omololevy">Levy Omolo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      </a>
+      <br />
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
