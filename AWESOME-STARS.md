@@ -104,7 +104,6 @@
 
 ## Others 
 
-- [ngud-0119/NGU](https://github.com/ngud-0119/NGU) - Never Give Up
 - [MoMeak9/MyDocs](https://github.com/MoMeak9/MyDocs) - Vuepress-based personal document center
 - [mason369/Charmve](https://github.com/mason369/Charmve) - 🤡  About Me.
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
@@ -126,7 +125,7 @@
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Medical Image Segmentation with Diffusion Model
-- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 35 stars and 2 forks 🌟
+- [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 36 stars and 2 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
 ## Rust 
