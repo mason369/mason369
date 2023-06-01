@@ -165,20 +165,20 @@ Visitor Count:<br>
       <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ethanflower1903">
-        <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
-      </a>
-      <br />
-      <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/JeffersonRPM">
         <img src="https://avatars2.githubusercontent.com/u/48998618" width="100px;" alt="JeffersonRPM"/>
       </a>
       <br />
       <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ethanflower1903">
+        <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
+      </a>
+      <br />
+      <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
     <td align="center">
       <a href="https://github.com/ozboware">
@@ -209,18 +209,18 @@ Visitor Count:<br>
       <a href="https://github.com/omololevy">Levy Omolo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CharlesDerek">
-        <img src="https://avatars2.githubusercontent.com/u/22461547" width="100px;" alt="CharlesDerek"/>
-      </a>
-      <br />
-      <a href="https://github.com/CharlesDerek">CharlesDerek</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/PrinceGoblinTech">
         <img src="https://avatars2.githubusercontent.com/u/126902204" width="100px;" alt="PrinceGoblinTech"/>
       </a>
       <br />
       <a href="https://github.com/PrinceGoblinTech">Princess Charming</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      </a>
+      <br />
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
