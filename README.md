@@ -209,18 +209,18 @@ Visitor Count:<br>
       <a href="https://github.com/omololevy">Levy Omolo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/PrinceGoblinTech">
-        <img src="https://avatars2.githubusercontent.com/u/126902204" width="100px;" alt="PrinceGoblinTech"/>
-      </a>
-      <br />
-      <a href="https://github.com/PrinceGoblinTech">Princess Charming</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/NazmusSayad">
         <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
       </a>
       <br />
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OttoMayer313">
+        <img src="https://avatars2.githubusercontent.com/u/125814316" width="100px;" alt="OttoMayer313"/>
+      </a>
+      <br />
+      <a href="https://github.com/OttoMayer313">Otto Mayr</a>
     </td>
   </tr>
 </table>
