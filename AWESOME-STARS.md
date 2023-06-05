@@ -42,7 +42,7 @@
 
 ## Go 
 
-- [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - 🔥 🔥 🔥 KubePi 是一个现代化的 K8s 面板。
+- [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - KubePi 是一个现代化的 K8s 面板。
 - [farseer-go/fs](https://github.com/farseer-go/fs) - farseer-go all components of the base module, module launcher, framework initialization program（所有组件的基础模块，模块启动器，框架初始化程序）
 
 ## HTML 
