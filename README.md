@@ -86,18 +86,18 @@ Visitor Count:<br>
       <a href="https://github.com/PremChapagain">Prem Chapagain</a>
     </td>
     <td align="center">
-      <a href="https://github.com/BEPb">
-        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
-      </a>
-      <br />
-      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
       </a>
       <br />
       <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BEPb">
+        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
+      </a>
+      <br />
+      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
     </td>
     <td align="center">
       <a href="https://github.com/kenjinote">
