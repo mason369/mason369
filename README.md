@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/itswadesh">
-        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
+      <a href="https://github.com/larrymahumot">
+        <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
       </a>
       <br />
-      <a href="https://github.com/itswadesh">Swadesh Behera</a>
+      <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
     </td>
   </tr>
 </table>
