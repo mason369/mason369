@@ -79,18 +79,18 @@ Visitor Count:<br>
       <a href="https://github.com/gamemann">Christian Deacon</a>
     </td>
     <td align="center">
-      <a href="https://github.com/PremChapagain">
-        <img src="https://avatars2.githubusercontent.com/u/47587012" width="100px;" alt="PremChapagain"/>
-      </a>
-      <br />
-      <a href="https://github.com/PremChapagain">Prem Chapagain</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
       </a>
       <br />
       <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PremChapagain">
+        <img src="https://avatars2.githubusercontent.com/u/47587012" width="100px;" alt="PremChapagain"/>
+      </a>
+      <br />
+      <a href="https://github.com/PremChapagain">Prem Chapagain</a>
     </td>
     <td align="center">
       <a href="https://github.com/BEPb">
