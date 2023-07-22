@@ -144,18 +144,18 @@ Visitor Count:<br>
       <a href="https://github.com/romanofficial">Roman Hossain Shaon</a>
     </td>
     <td align="center">
-      <a href="https://github.com/scoobytux">
-        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
-      </a>
-      <br />
-      <a href="https://github.com/scoobytux">Tu Le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/scoobytux">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
+      </a>
+      <br />
+      <a href="https://github.com/scoobytux">Tu Le</a>
     </td>
     <td align="center">
       <a href="https://github.com/JeffersonRPM">
