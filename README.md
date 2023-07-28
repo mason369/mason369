@@ -158,12 +158,21 @@ Visitor Count:<br>
       <a href="https://github.com/scoobytux">Tu Le</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DGS1337">
+        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
+      </a>
+      <br />
+      <a href="https://github.com/DGS1337">DouG Kalash</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/JeffersonRPM">
         <img src="https://avatars2.githubusercontent.com/u/48998618" width="100px;" alt="JeffersonRPM"/>
       </a>
       <br />
       <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ozboware">
         <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
@@ -171,8 +180,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/ozboware">ozboware</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AXG-coder">
         <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/itswadesh">Swadesh Behera</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/larrymahumot">
-        <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
-      </a>
-      <br />
-      <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
     </td>
   </tr>
 </table>
