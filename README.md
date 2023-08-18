@@ -158,18 +158,18 @@ Visitor Count:<br>
       <a href="https://github.com/scoobytux">Tu Le</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DGS1337">
-        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
-      </a>
-      <br />
-      <a href="https://github.com/DGS1337">DouG Kalash</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/JeffersonRPM">
         <img src="https://avatars2.githubusercontent.com/u/48998618" width="100px;" alt="JeffersonRPM"/>
       </a>
       <br />
       <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DGS1337">
+        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
+      </a>
+      <br />
+      <a href="https://github.com/DGS1337">DouG Kalash</a>
     </td>
   </tr>
   <tr>
