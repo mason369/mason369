@@ -123,6 +123,13 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/isyuricunha">
+        <img src="https://avatars2.githubusercontent.com/u/115634315" width="100px;" alt="isyuricunha"/>
+      </a>
+      <br />
+      <a href="https://github.com/isyuricunha">Yuri Cunha</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
       </a>
@@ -164,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/DGS1337">
         <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
@@ -171,8 +180,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/DGS1337">DouG Kalash</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ozboware">
         <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/omololevy">Levy Omolo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
-      </a>
-      <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
