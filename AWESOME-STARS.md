@@ -54,7 +54,6 @@
 - [mason369/Cai-Xukun-invites-you-to-make-a-video-call](https://github.com/mason369/Cai-Xukun-invites-you-to-make-a-video-call) - 蔡徐坤邀请你视频通话
 - [mason369/hydejack-starter-kit](https://github.com/mason369/hydejack-starter-kit) - 
 - [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试android performance\iOS性能测试ios performance\移动端性能测试mobile performance\APP性能测试app performance）
-- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [liusxs/liuliu](https://github.com/liusxs/liuliu) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [mason369/Mason_blog](https://github.com/mason369/Mason_blog) - Base on PortfolYOU jekyll theme.
 
@@ -108,6 +107,7 @@
 - [mason369/Charmve](https://github.com/mason369/Charmve) - 🤡  About Me.
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
+- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [Hank-Chrome/free-clash-node](https://github.com/Hank-Chrome/free-clash-node) - 免费clash,v2ray节点，好用，还高速！高速稳定翻墙！
 - [kaka3511/computer-graduation-design-idea](https://github.com/kaka3511/computer-graduation-design-idea) - 计算机毕业设计（源码+论文）
 - [liusxs/liusxs](https://github.com/liusxs/liusxs) - 
