@@ -123,13 +123,6 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/isyuricunha">
-        <img src="https://avatars2.githubusercontent.com/u/115634315" width="100px;" alt="isyuricunha"/>
-      </a>
-      <br />
-      <a href="https://github.com/isyuricunha">Yuri Cunha</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
       </a>
@@ -171,8 +164,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/scoobytux">Tu Le</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/JeffersonRPM">
         <img src="https://avatars2.githubusercontent.com/u/48998618" width="100px;" alt="JeffersonRPM"/>
@@ -180,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/DGS1337">
         <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
@@ -195,18 +188,18 @@ Visitor Count:<br>
       <a href="https://github.com/ozboware">ozboware</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AXG-coder">
-        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
-      </a>
-      <br />
-      <a href="https://github.com/AXG-coder">Aziz falah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Gizachew29">
         <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
       </a>
       <br />
       <a href="https://github.com/Gizachew29">Gizachew</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AXG-coder">
+        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
+      </a>
+      <br />
+      <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
     <td align="center">
       <a href="https://github.com/ethanflower1903">
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/omololevy">Levy Omolo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      </a>
+      <br />
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
