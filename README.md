@@ -209,18 +209,18 @@ Visitor Count:<br>
       <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
     <td align="center">
+      <a href="https://github.com/stalk0">
+        <img src="https://avatars2.githubusercontent.com/u/123779099" width="100px;" alt="stalk0"/>
+      </a>
+      <br />
+      <a href="https://github.com/stalk0">stalk0</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/omololevy">
         <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
       </a>
       <br />
       <a href="https://github.com/omololevy">Levy Omolo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
-      </a>
-      <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
