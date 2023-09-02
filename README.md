@@ -114,20 +114,20 @@ Visitor Count:<br>
       <a href="https://github.com/V1nni00">Vinay Kumar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vjanz">
-        <img src="https://avatars2.githubusercontent.com/u/25842655" width="100px;" alt="vjanz"/>
-      </a>
-      <br />
-      <a href="https://github.com/vjanz">Valon Januzaj</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/0vm">
         <img src="https://avatars2.githubusercontent.com/u/79897291" width="100px;" alt="0vm"/>
       </a>
       <br />
       <a href="https://github.com/0vm">Ak</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vjanz">
+        <img src="https://avatars2.githubusercontent.com/u/25842655" width="100px;" alt="vjanz"/>
+      </a>
+      <br />
+      <a href="https://github.com/vjanz">Valon Januzaj</a>
     </td>
     <td align="center">
       <a href="https://github.com/JubayerRiyad">
