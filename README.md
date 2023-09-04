@@ -107,18 +107,18 @@ Visitor Count:<br>
       <a href="https://github.com/kenjinote">kenji</a>
     </td>
     <td align="center">
-      <a href="https://github.com/V1nni00">
-        <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="V1nni00"/>
-      </a>
-      <br />
-      <a href="https://github.com/V1nni00">Vinay Kumar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/0vm">
         <img src="https://avatars2.githubusercontent.com/u/79897291" width="100px;" alt="0vm"/>
       </a>
       <br />
       <a href="https://github.com/0vm">Ak</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/V1nni00">
+        <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="V1nni00"/>
+      </a>
+      <br />
+      <a href="https://github.com/V1nni00">Vinay Kumar</a>
     </td>
   </tr>
   <tr>
