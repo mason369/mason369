@@ -78,7 +78,7 @@
 - [LingASDJ/Maple-Leaves-Pixel-Dungeon](https://github.com/LingASDJ/Maple-Leaves-Pixel-Dungeon) - Cooperative projects, mainly for code writing.
 - [Jinxqq/OutSiderAPM](https://github.com/Jinxqq/OutSiderAPM) - Powerful, comprehensice application performance management platform of Android
 - [weixiansen574/Genshin-Lyre-midi-player](https://github.com/weixiansen574/Genshin-Lyre-midi-player) - 基于无障碍的原神midi自动演奏器（自动弹琴）
-- [LingASDJ/harder-sprouted-pd](https://github.com/LingASDJ/harder-sprouted-pd) - This is HSPD in multiple languages.
+- [Old-PD-AS-Module/harder-sprouted-pd](https://github.com/Old-PD-AS-Module/harder-sprouted-pd) - This is HSPD in multiple languages.
 - [LingASDJ/Magic-Ling-Pixel-Dungeon](https://github.com/LingASDJ/Magic-Ling-Pixel-Dungeon) - The Magic Ling Pixel Dungeon began on February 12, 2021. Based on SHPD. (2nd Anniversary)
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the source code of Pixel Dung
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
