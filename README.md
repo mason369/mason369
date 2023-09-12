@@ -107,21 +107,12 @@ Visitor Count:<br>
       <a href="https://github.com/kenjinote">kenji</a>
     </td>
     <td align="center">
-      <a href="https://github.com/0vm">
-        <img src="https://avatars2.githubusercontent.com/u/79897291" width="100px;" alt="0vm"/>
-      </a>
-      <br />
-      <a href="https://github.com/0vm">Ak</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/V1nni00">
         <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="V1nni00"/>
       </a>
       <br />
       <a href="https://github.com/V1nni00">Vinay Kumar</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/vjanz">
         <img src="https://avatars2.githubusercontent.com/u/25842655" width="100px;" alt="vjanz"/>
@@ -129,6 +120,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/vjanz">Valon Januzaj</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
@@ -171,8 +164,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/DGS1337">
         <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
@@ -180,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/DGS1337">DouG Kalash</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ozboware">
         <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/omololevy">Levy Omolo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazmusSayad">
+        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      </a>
+      <br />
+      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
