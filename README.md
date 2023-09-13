@@ -165,21 +165,14 @@ Visitor Count:<br>
       <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DGS1337">
-        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
-      </a>
-      <br />
-      <a href="https://github.com/DGS1337">DouG Kalash</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/ozboware">
         <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
       </a>
       <br />
       <a href="https://github.com/ozboware">ozboware</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Gizachew29">
         <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/seniorcoder72">
+        <img src="https://avatars2.githubusercontent.com/u/132613676" width="100px;" alt="seniorcoder72"/>
+      </a>
+      <br />
+      <a href="https://github.com/seniorcoder72">Senior Developer</a>
     </td>
   </tr>
 </table>
