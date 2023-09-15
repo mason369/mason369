@@ -174,6 +174,13 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/DGS1337">
+        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
+      </a>
+      <br />
+      <a href="https://github.com/DGS1337">DouG Kalash</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Gizachew29">
         <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
       </a>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/seniorcoder72">
-        <img src="https://avatars2.githubusercontent.com/u/132613676" width="100px;" alt="seniorcoder72"/>
-      </a>
-      <br />
-      <a href="https://github.com/seniorcoder72">Senior Developer</a>
     </td>
   </tr>
 </table>
