@@ -85,6 +85,7 @@
 
 ## JavaScript 
 
+- [TonyJiangWJ/Ant-Forest](https://github.com/TonyJiangWJ/Ant-Forest) - 基于AutoJS的蚂蚁森林收能量脚本
 - [mason369/Back-end-management-system-E-commerce](https://github.com/mason369/Back-end-management-system-E-commerce) - Vue2+Element-UI 电商后台管理系统
 - [mason369/juejin-helper](https://github.com/mason369/juejin-helper) - 🎠依赖 GitHub Actions 的自动化工具，用于稀土掘金每日签到、沾一沾、免费抽奖、BugFix。🍋
 - [liaoaoyang/TinyWaste](https://github.com/liaoaoyang/TinyWaste) - Archive of TinyWaste Game written by @mikiashiki
