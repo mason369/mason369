@@ -151,18 +151,18 @@ Visitor Count:<br>
       <a href="https://github.com/romanofficial">Roman Hossain Shaon</a>
     </td>
     <td align="center">
-      <a href="https://github.com/scoobytux">
-        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
-      </a>
-      <br />
-      <a href="https://github.com/scoobytux">Tu Le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/JeffersonRPM">
         <img src="https://avatars2.githubusercontent.com/u/48998618" width="100px;" alt="JeffersonRPM"/>
       </a>
       <br />
       <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/scoobytux">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
+      </a>
+      <br />
+      <a href="https://github.com/scoobytux">Tu Le</a>
     </td>
     <td align="center">
       <a href="https://github.com/ozboware">
