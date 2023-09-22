@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/omololevy">Levy Omolo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
+      <a href="https://github.com/seniorcoder72">
+        <img src="https://avatars2.githubusercontent.com/u/132613676" width="100px;" alt="seniorcoder72"/>
       </a>
       <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
+      <a href="https://github.com/seniorcoder72">Senior Developer</a>
     </td>
   </tr>
 </table>
