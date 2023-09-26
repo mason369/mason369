@@ -209,18 +209,18 @@ Visitor Count:<br>
       <a href="https://github.com/stalk0">stalk0</a>
     </td>
     <td align="center">
-      <a href="https://github.com/omololevy">
-        <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
-      </a>
-      <br />
-      <a href="https://github.com/omololevy">Levy Omolo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seniorcoder72">
         <img src="https://avatars2.githubusercontent.com/u/132613676" width="100px;" alt="seniorcoder72"/>
       </a>
       <br />
       <a href="https://github.com/seniorcoder72">Senior Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/omololevy">
+        <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
+      </a>
+      <br />
+      <a href="https://github.com/omololevy">Levy Omolo</a>
     </td>
   </tr>
 </table>
