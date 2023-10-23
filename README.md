@@ -107,21 +107,12 @@ Visitor Count:<br>
       <a href="https://github.com/kenjinote">kenji</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vjanz">
-        <img src="https://avatars2.githubusercontent.com/u/25842655" width="100px;" alt="vjanz"/>
-      </a>
-      <br />
-      <a href="https://github.com/vjanz">Valon Januzaj</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/V1nni00">
         <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="V1nni00"/>
       </a>
       <br />
       <a href="https://github.com/V1nni00">Vinay Kumar</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
@@ -129,6 +120,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
@@ -171,8 +164,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/ozboware">ozboware</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Gizachew29">
         <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
@@ -180,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/DGS1337">
         <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arcane4096">
+        <img src="https://avatars2.githubusercontent.com/u/137176345" width="100px;" alt="arcane4096"/>
+      </a>
+      <br />
+      <a href="https://github.com/arcane4096">Fisher</a>
     </td>
   </tr>
 </table>
