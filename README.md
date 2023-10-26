@@ -144,13 +144,6 @@ Visitor Count:<br>
       <a href="https://github.com/romanofficial">Roman Hossain Shaon</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JeffersonRPM">
-        <img src="https://avatars2.githubusercontent.com/u/48998618" width="100px;" alt="JeffersonRPM"/>
-      </a>
-      <br />
-      <a href="https://github.com/JeffersonRPM">Jefferson Martines</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/scoobytux">
         <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="scoobytux"/>
       </a>
@@ -171,8 +164,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/DGS1337">
         <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
@@ -180,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/DGS1337">DouG Kalash</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AXG-coder">
         <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/arcane4096">Fisher</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/itswadesh">
+        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
+      </a>
+      <br />
+      <a href="https://github.com/itswadesh">Swadesh Behera</a>
     </td>
   </tr>
 </table>
