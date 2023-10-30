@@ -188,6 +188,13 @@ Visitor Count:<br>
       <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
     <td align="center">
+      <a href="https://github.com/OmarElsakka1">
+        <img src="https://avatars2.githubusercontent.com/u/68303138" width="100px;" alt="OmarElsakka1"/>
+      </a>
+      <br />
+      <a href="https://github.com/OmarElsakka1">Omar El-Sakka</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/seniorcoder72">
         <img src="https://avatars2.githubusercontent.com/u/132613676" width="100px;" alt="seniorcoder72"/>
       </a>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/arcane4096">Fisher</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/itswadesh">
-        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
-      </a>
-      <br />
-      <a href="https://github.com/itswadesh">Swadesh Behera</a>
     </td>
   </tr>
 </table>
