@@ -165,21 +165,14 @@ Visitor Count:<br>
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DGS1337">
-        <img src="https://avatars2.githubusercontent.com/u/72562709" width="100px;" alt="DGS1337"/>
-      </a>
-      <br />
-      <a href="https://github.com/DGS1337">DouG Kalash</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/AXG-coder">
         <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
       </a>
       <br />
       <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ethanflower1903">
         <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/arcane4096">Fisher</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/itswadesh">
+        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
+      </a>
+      <br />
+      <a href="https://github.com/itswadesh">Swadesh Behera</a>
     </td>
   </tr>
 </table>
