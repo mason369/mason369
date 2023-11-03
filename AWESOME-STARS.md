@@ -21,7 +21,6 @@
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
-- [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -136,10 +135,6 @@
 ## Rust 
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-## Shell 
-
-- [wanhebin/clash-for-linux](https://github.com/wanhebin/clash-for-linux) - Linux 端使用 Clash 作为代理工具
 
 ## TypeScript 
 
