@@ -57,7 +57,6 @@
 - [LingASDJ/Ling-Blog](https://github.com/LingASDJ/Ling-Blog) - 基于Hydrogen
 - [mason369/Cai-Xukun-invites-you-to-make-a-video-call](https://github.com/mason369/Cai-Xukun-invites-you-to-make-a-video-call) - 蔡徐坤邀请你视频通话
 - [mason369/hydejack-starter-kit](https://github.com/mason369/hydejack-starter-kit) - 
-- [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试android performance\iOS性能测试ios performance\移动端性能测试mobile performance\APP性能测试app performance）
 - [liusxs/liuliu](https://github.com/liusxs/liuliu) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [mason369/Mason_blog](https://github.com/mason369/Mason_blog) - Base on PortfolYOU jekyll theme.
 
@@ -126,6 +125,7 @@
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [Soulter/HuggingChatForQQBot](https://github.com/Soulter/HuggingChatForQQBot) - QQChannelChatGPT的hugchat插件
 - [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台
+- [smart-test-ti/SoloX](https://github.com/smart-test-ti/SoloX) - SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试android performance\iOS性能测试ios performance\移动端性能测试mobile performance\APP性能测试app performance）
 - [yuanmingqi/rl-exploration-baselines](https://github.com/yuanmingqi/rl-exploration-baselines) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [WuJunde/MedSegDiff](https://github.com/WuJunde/MedSegDiff) - Medical Image Segmentation with Diffusion Model
