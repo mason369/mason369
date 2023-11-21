@@ -145,7 +145,6 @@
 - [Lrunlin/blog](https://github.com/Lrunlin/blog) - 使用Next.js+React.js+Koa+Typescript搭建的技术博客社区
 - [cpagejs/cate-design](https://github.com/cpagejs/cate-design) - cate-design 一个基于vue3的前端UI框架，简单易用
 - [NervJS/tarojs-plugin-ssr](https://github.com/NervJS/tarojs-plugin-ssr) - 让 Taro H5 支持 Pre-rendering、SSR 和 ISR，极致的首屏速度🚀，利于 SEO🔍
-- [sanjayheaven/gganbu-admin](https://github.com/sanjayheaven/gganbu-admin) - An out-of-box Background Management System based on RBAC. 📦 开箱即用的权限后台管理系统.
 
 ## Vue 
 
