@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/arcane4096">Fisher</a>
     </td>
     <td align="center">
-      <a href="https://github.com/itswadesh">
-        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
+      <a href="https://github.com/dougkalash">
+        <img src="https://avatars2.githubusercontent.com/u/149725576" width="100px;" alt="dougkalash"/>
       </a>
       <br />
-      <a href="https://github.com/itswadesh">Swadesh Behera</a>
+      <a href="https://github.com/dougkalash">dougkalash</a>
     </td>
   </tr>
 </table>
