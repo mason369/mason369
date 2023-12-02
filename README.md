@@ -188,13 +188,6 @@ Visitor Count:<br>
       <a href="https://github.com/mohammadhasanii">Mohammad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/seniorcoder72">
-        <img src="https://avatars2.githubusercontent.com/u/132613676" width="100px;" alt="seniorcoder72"/>
-      </a>
-      <br />
-      <a href="https://github.com/seniorcoder72">Senior Developer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/omololevy">
         <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
       </a>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/silver99928">silver99928</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dougkalash">
+        <img src="https://avatars2.githubusercontent.com/u/149725576" width="100px;" alt="dougkalash"/>
+      </a>
+      <br />
+      <a href="https://github.com/dougkalash">dougkalash</a>
     </td>
   </tr>
 </table>
