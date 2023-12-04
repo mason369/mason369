@@ -72,18 +72,18 @@ Visitor Count:<br>
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/gamemann">
-        <img src="https://avatars2.githubusercontent.com/u/6509565" width="100px;" alt="gamemann"/>
-      </a>
-      <br />
-      <a href="https://github.com/gamemann">Christian Deacon</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
       </a>
       <br />
       <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gamemann">
+        <img src="https://avatars2.githubusercontent.com/u/6509565" width="100px;" alt="gamemann"/>
+      </a>
+      <br />
+      <a href="https://github.com/gamemann">Christian Deacon</a>
     </td>
     <td align="center">
       <a href="https://github.com/BEPb">
@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/silver99928">silver99928</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dougkalash">
-        <img src="https://avatars2.githubusercontent.com/u/149725576" width="100px;" alt="dougkalash"/>
+      <a href="https://github.com/itswadesh">
+        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
       </a>
       <br />
-      <a href="https://github.com/dougkalash">dougkalash</a>
+      <a href="https://github.com/itswadesh">Swadesh Behera</a>
     </td>
   </tr>
 </table>
