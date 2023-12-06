@@ -150,6 +150,7 @@
 
 ## Vue 
 
+- [WuKongOpenSource/Wukong_Accounting](https://github.com/WuKongOpenSource/Wukong_Accounting) - 悟空财务管理系统（悟空FS） 实现凭证管理、账簿管理、资产负债表、现金流量表、利润表等管理。开启数智财务新时代。
 - [mason369/Knock-Ding-Yanxuan](https://github.com/mason369/Knock-Ding-Yanxuan) - 叩丁严选项目-KOUDINGLANG
 - [School-of-Website-Engineering/future-front-end](https://github.com/School-of-Website-Engineering/future-front-end) - future项目的前端代码，Vue3 + TypeScript + Vite + Element Plus + SCSS + Pinia，一个在线聊天室项目。
 - [zeorcpt/vue3-vant-mobile](https://github.com/zeorcpt/vue3-vant-mobile) - vue3.2 + vite + vant + pinia + ts 移动端 h5 项目新手实践
