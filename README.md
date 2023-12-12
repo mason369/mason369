@@ -202,13 +202,6 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/silver99928">
-        <img src="https://avatars2.githubusercontent.com/u/139619373" width="100px;" alt="silver99928"/>
-      </a>
-      <br />
-      <a href="https://github.com/silver99928">silver99928</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/arcane4096">
         <img src="https://avatars2.githubusercontent.com/u/137176345" width="100px;" alt="arcane4096"/>
       </a>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/itswadesh">Swadesh Behera</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/larrymahumot">
+        <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
+      </a>
+      <br />
+      <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
     </td>
   </tr>
 </table>
