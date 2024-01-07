@@ -174,18 +174,18 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/AXG-coder">
-        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
-      </a>
-      <br />
-      <a href="https://github.com/AXG-coder">Aziz falah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mohammadhasanii">
         <img src="https://avatars2.githubusercontent.com/u/77454712" width="100px;" alt="mohammadhasanii"/>
       </a>
       <br />
       <a href="https://github.com/mohammadhasanii">Mohammad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AXG-coder">
+        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
+      </a>
+      <br />
+      <a href="https://github.com/AXG-coder">Aziz falah</a>
     </td>
     <td align="center">
       <a href="https://github.com/omololevy">
