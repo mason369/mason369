@@ -209,18 +209,18 @@ Visitor Count:<br>
       <a href="https://github.com/arcane4096">Fisher</a>
     </td>
     <td align="center">
-      <a href="https://github.com/itswadesh">
-        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
-      </a>
-      <br />
-      <a href="https://github.com/itswadesh">Swadesh Behera</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/larrymahumot">
         <img src="https://avatars2.githubusercontent.com/u/58719277" width="100px;" alt="larrymahumot"/>
       </a>
       <br />
       <a href="https://github.com/larrymahumot">Larry Bert Mahumot</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/itswadesh">
+        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
+      </a>
+      <br />
+      <a href="https://github.com/itswadesh">Swadesh Behera</a>
     </td>
   </tr>
 </table>
