@@ -144,18 +144,18 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ozboware">
-        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
-      </a>
-      <br />
-      <a href="https://github.com/ozboware">ozboware</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mohammadhasanii">
         <img src="https://avatars2.githubusercontent.com/u/77454712" width="100px;" alt="mohammadhasanii"/>
       </a>
       <br />
       <a href="https://github.com/mohammadhasanii">Mohammad</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ozboware">
+        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
+      </a>
+      <br />
+      <a href="https://github.com/ozboware">ozboware</a>
     </td>
     <td align="center">
       <a href="https://github.com/tulna07">
