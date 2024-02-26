@@ -123,13 +123,6 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mohammadhasanii">
-        <img src="https://avatars2.githubusercontent.com/u/77454712" width="100px;" alt="mohammadhasanii"/>
-      </a>
-      <br />
-      <a href="https://github.com/mohammadhasanii">Mohammad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
       </a>
@@ -151,18 +144,18 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ozboware">
-        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
-      </a>
-      <br />
-      <a href="https://github.com/ozboware">ozboware</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Gizachew29">
         <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
       </a>
       <br />
       <a href="https://github.com/Gizachew29">Gizachew</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ozboware">
+        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
+      </a>
+      <br />
+      <a href="https://github.com/ozboware">ozboware</a>
     </td>
     <td align="center">
       <a href="https://github.com/tulna07">
@@ -171,8 +164,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/tulna07">Tu Le</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ethanflower1903">
         <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
@@ -180,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AXG-coder">
         <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/Kubenew">Felix</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/diamondyhand">
+        <img src="https://avatars2.githubusercontent.com/u/113045708" width="100px;" alt="diamondyhand"/>
+      </a>
+      <br />
+      <a href="https://github.com/diamondyhand">Defi whale</a>
     </td>
   </tr>
 </table>
