@@ -195,13 +195,6 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/arcane4096">
-        <img src="https://avatars2.githubusercontent.com/u/137176345" width="100px;" alt="arcane4096"/>
-      </a>
-      <br />
-      <a href="https://github.com/arcane4096">Fisher</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/itswadesh">
         <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
       </a>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/diamondyhand">Defi whale</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GreatSuperstar">
+        <img src="https://avatars2.githubusercontent.com/u/104510889" width="100px;" alt="GreatSuperstar"/>
+      </a>
+      <br />
+      <a href="https://github.com/GreatSuperstar">Daniel Cameron</a>
     </td>
   </tr>
 </table>
