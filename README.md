@@ -174,11 +174,11 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/AXG-coder">
-        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="AXG-coder"/>
+      <a href="https://github.com/Aziz-AXG">
+        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="Aziz-AXG"/>
       </a>
       <br />
-      <a href="https://github.com/AXG-coder">Aziz falah</a>
+      <a href="https://github.com/Aziz-AXG">Aziz falah</a>
     </td>
     <td align="center">
       <a href="https://github.com/omololevy">
