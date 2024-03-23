@@ -127,7 +127,7 @@
 
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [Soulter/HuggingChatForQQBot](https://github.com/Soulter/HuggingChatForQQBot) - QQChannelChatGPT的hugchat插件
-- [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ / QQ频道 机器人🤖 | 支持 ChatGPT、Claude、Google Bard、Gemini Pro、Moonshot、gpt4free、One API 的 QQ（QQ频道） 机器人平台
+- [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 ChatGPT、Claude、Gemini Pro、Moonshot、gpt4free、One API 的 QQ / QQ频道 / OneBot 机器人平台
 - [RLE-Foundation/RLeXplore](https://github.com/RLE-Foundation/RLeXplore) - RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploratio
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
 - [KidsWithTokens/MedSegDiff](https://github.com/KidsWithTokens/MedSegDiff) - Medical Image Segmentation with Diffusion Model
