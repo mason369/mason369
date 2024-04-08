@@ -72,11 +72,11 @@ Visitor Count:<br>
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/AYIDouble">
-        <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
+      <a href="https://github.com/IDouble">
+        <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="IDouble"/>
       </a>
       <br />
-      <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
+      <a href="https://github.com/IDouble">Alp ฿📈🚀🌕</a>
     </td>
     <td align="center">
       <a href="https://github.com/gamemann">
