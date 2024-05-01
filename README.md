@@ -181,6 +181,13 @@ Visitor Count:<br>
       <a href="https://github.com/Aziz-AXG">Aziz falah</a>
     </td>
     <td align="center">
+      <a href="https://github.com/911-carrera">
+        <img src="https://avatars2.githubusercontent.com/u/146537917" width="100px;" alt="911-carrera"/>
+      </a>
+      <br />
+      <a href="https://github.com/911-carrera">911-carrera</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/omololevy">
         <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
       </a>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/diamondyhand">Defi whale</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/GreatSuperstar">
-        <img src="https://avatars2.githubusercontent.com/u/104510889" width="100px;" alt="GreatSuperstar"/>
-      </a>
-      <br />
-      <a href="https://github.com/GreatSuperstar">Daniel Cameron</a>
     </td>
   </tr>
 </table>
