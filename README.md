@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/Kubenew">Felix</a>
     </td>
     <td align="center">
-      <a href="https://github.com/diamondyhand">
-        <img src="https://avatars2.githubusercontent.com/u/113045708" width="100px;" alt="diamondyhand"/>
+      <a href="https://github.com/alxkm">
+        <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
       </a>
       <br />
-      <a href="https://github.com/diamondyhand">Defi whale</a>
+      <a href="https://github.com/alxkm">Alex K</a>
     </td>
   </tr>
 </table>
