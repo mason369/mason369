@@ -202,6 +202,13 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/alxkm">
+        <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
+      </a>
+      <br />
+      <a href="https://github.com/alxkm">Alex K</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/itswadesh">
         <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
       </a>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/Kubenew">Felix</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/alxkm">
-        <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
-      </a>
-      <br />
-      <a href="https://github.com/alxkm">Alex K</a>
     </td>
   </tr>
 </table>
