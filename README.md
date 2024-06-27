@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/itswadesh">Swadesh Behera</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Kubenew">
-        <img src="https://avatars2.githubusercontent.com/u/90440279" width="100px;" alt="Kubenew"/>
+      <a href="https://github.com/NobleMajo">
+        <img src="https://avatars2.githubusercontent.com/u/39386799" width="100px;" alt="NobleMajo"/>
       </a>
       <br />
-      <a href="https://github.com/Kubenew">Felix</a>
+      <a href="https://github.com/NobleMajo">NobleMajo</a>
     </td>
   </tr>
 </table>
