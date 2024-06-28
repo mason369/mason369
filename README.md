@@ -209,18 +209,18 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/itswadesh">
-        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
-      </a>
-      <br />
-      <a href="https://github.com/itswadesh">Swadesh Behera</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/NobleMajo">
         <img src="https://avatars2.githubusercontent.com/u/39386799" width="100px;" alt="NobleMajo"/>
       </a>
       <br />
       <a href="https://github.com/NobleMajo">NobleMajo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/itswadesh">
+        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
+      </a>
+      <br />
+      <a href="https://github.com/itswadesh">Swadesh Behera</a>
     </td>
   </tr>
 </table>
