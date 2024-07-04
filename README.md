@@ -158,11 +158,11 @@ Visitor Count:<br>
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ozboware">
-        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="ozboware"/>
+      <a href="https://github.com/milsaware">
+        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="milsaware"/>
       </a>
       <br />
-      <a href="https://github.com/ozboware">ozboware</a>
+      <a href="https://github.com/milsaware">milsaware</a>
     </td>
     <td align="center">
       <a href="https://github.com/tulna07">
@@ -188,18 +188,18 @@ Visitor Count:<br>
       <a href="https://github.com/911-carrera">911-carrera</a>
     </td>
     <td align="center">
-      <a href="https://github.com/omololevy">
-        <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
-      </a>
-      <br />
-      <a href="https://github.com/omololevy">Levy Omolo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/alxkm">
         <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
       </a>
       <br />
       <a href="https://github.com/alxkm">Alex Klymenko</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/omololevy">
+        <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
+      </a>
+      <br />
+      <a href="https://github.com/omololevy">Levy Omolo</a>
     </td>
     <td align="center">
       <a href="https://github.com/NazmusSayad">
@@ -209,18 +209,18 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NobleMajo">
-        <img src="https://avatars2.githubusercontent.com/u/39386799" width="100px;" alt="NobleMajo"/>
-      </a>
-      <br />
-      <a href="https://github.com/NobleMajo">NobleMajo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/itswadesh">
         <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
       </a>
       <br />
       <a href="https://github.com/itswadesh">Swadesh Behera</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kubenew">
+        <img src="https://avatars2.githubusercontent.com/u/90440279" width="100px;" alt="Kubenew"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kubenew">Felix</a>
     </td>
   </tr>
 </table>
