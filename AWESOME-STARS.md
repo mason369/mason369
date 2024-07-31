@@ -130,7 +130,7 @@
 - [Soulter/HuggingChatForQQBot](https://github.com/Soulter/HuggingChatForQQBot) - QQChannelChatGPT的hugchat插件
 - [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、GPT 4o、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
 - [Shank2358/GGHL](https://github.com/Shank2358/GGHL) - This is the implementation of GGHL (A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection)
-- [KidsWithTokens/MedSegDiff](https://github.com/KidsWithTokens/MedSegDiff) - Medical Image Segmentation with Diffusion Model
+- [MedicineToken/MedSegDiff](https://github.com/MedicineToken/MedSegDiff) - Medical Image Segmentation with Diffusion Model
 - [mason369/mason369](https://github.com/mason369/mason369) - A profile README with 35 stars and 2 forks 🌟
 - [mason369/waka-readme](https://github.com/mason369/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
