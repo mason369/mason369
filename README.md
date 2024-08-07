@@ -93,18 +93,18 @@ Visitor Count:<br>
       <a href="https://github.com/BEPb">Andrej Marinchenko</a>
     </td>
     <td align="center">
-      <a href="https://github.com/PremChapagain">
-        <img src="https://avatars2.githubusercontent.com/u/47587012" width="100px;" alt="PremChapagain"/>
-      </a>
-      <br />
-      <a href="https://github.com/PremChapagain">Prem Chapagain</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars2.githubusercontent.com/u/2605401" width="100px;" alt="kenjinote"/>
       </a>
       <br />
       <a href="https://github.com/kenjinote">kenji</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PremChapagain">
+        <img src="https://avatars2.githubusercontent.com/u/47587012" width="100px;" alt="PremChapagain"/>
+      </a>
+      <br />
+      <a href="https://github.com/PremChapagain">Prem Chapagain</a>
     </td>
     <td align="center">
       <a href="https://github.com/H-K-R">
@@ -195,6 +195,13 @@ Visitor Count:<br>
       <a href="https://github.com/alxkm">Alex Klymenko</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Charles-Chrismann">
+        <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
+      </a>
+      <br />
+      <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/omololevy">
         <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
       </a>
@@ -207,13 +214,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Charles-Chrismann">
-        <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
-      </a>
-      <br />
-      <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
     </td>
     <td align="center">
       <a href="https://github.com/itswadesh">
