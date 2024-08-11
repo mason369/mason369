@@ -100,13 +100,6 @@ Visitor Count:<br>
       <a href="https://github.com/kenjinote">kenji</a>
     </td>
     <td align="center">
-      <a href="https://github.com/PremChapagain">
-        <img src="https://avatars2.githubusercontent.com/u/47587012" width="100px;" alt="PremChapagain"/>
-      </a>
-      <br />
-      <a href="https://github.com/PremChapagain">Prem Chapagain</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
@@ -120,8 +113,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/V1nni00">Vinay Kumar</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ethanflower1903">
         <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
@@ -129,6 +120,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
@@ -171,6 +164,13 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/tulna07">Tu Le</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Charles-Chrismann">
+        <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
+      </a>
+      <br />
+      <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -179,13 +179,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/Aziz-AXG">Aziz falah</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Charles-Chrismann">
-        <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
-      </a>
-      <br />
-      <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
     </td>
     <td align="center">
       <a href="https://github.com/911-carrera">
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/itswadesh">Swadesh Behera</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kubenew">
+        <img src="https://avatars2.githubusercontent.com/u/90440279" width="100px;" alt="Kubenew"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kubenew">Felix</a>
     </td>
   </tr>
 </table>
