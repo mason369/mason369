@@ -158,18 +158,18 @@ Visitor Count:<br>
       <a href="https://github.com/milsaware">milsaware</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tulna07">
-        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="tulna07"/>
-      </a>
-      <br />
-      <a href="https://github.com/tulna07">Tu Le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Charles-Chrismann">
         <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
       </a>
       <br />
       <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tulna07">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="tulna07"/>
+      </a>
+      <br />
+      <a href="https://github.com/tulna07">Tu Le</a>
     </td>
   </tr>
   <tr>
