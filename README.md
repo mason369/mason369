@@ -130,6 +130,13 @@ Visitor Count:<br>
       <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Charles-Chrismann">
+        <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
+      </a>
+      <br />
+      <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/kulikov-dev">
         <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
       </a>
@@ -142,13 +149,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/AppServiceProvider">Roman Hossain Shaon</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Charles-Chrismann">
-        <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
-      </a>
-      <br />
-      <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gizachew29">
