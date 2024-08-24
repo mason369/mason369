@@ -209,18 +209,18 @@ Visitor Count:<br>
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xopaz">
+        <img src="https://avatars2.githubusercontent.com/u/177743084" width="100px;" alt="xopaz"/>
+      </a>
+      <br />
+      <a href="https://github.com/xopaz">FOLLOW4FOLLOW</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/itswadesh">
         <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
       </a>
       <br />
       <a href="https://github.com/itswadesh">Swadesh Behera</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Kubenew">
-        <img src="https://avatars2.githubusercontent.com/u/90440279" width="100px;" alt="Kubenew"/>
-      </a>
-      <br />
-      <a href="https://github.com/Kubenew">Felix</a>
     </td>
   </tr>
 </table>
