@@ -188,6 +188,13 @@ Visitor Count:<br>
       <a href="https://github.com/911-carrera">911-carrera</a>
     </td>
     <td align="center">
+      <a href="https://github.com/seniorvuejsdeveloper">
+        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
+      </a>
+      <br />
+      <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/alxkm">
         <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
       </a>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/itswadesh">
-        <img src="https://avatars2.githubusercontent.com/u/1191896" width="100px;" alt="itswadesh"/>
-      </a>
-      <br />
-      <a href="https://github.com/itswadesh">Swadesh Behera</a>
     </td>
   </tr>
 </table>
