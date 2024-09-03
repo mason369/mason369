@@ -195,18 +195,18 @@ Visitor Count:<br>
       <a href="https://github.com/911-carrera">911-carrera</a>
     </td>
     <td align="center">
-      <a href="https://github.com/alxkm">
-        <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
-      </a>
-      <br />
-      <a href="https://github.com/alxkm">Alex Klymenko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xopaz">
         <img src="https://avatars2.githubusercontent.com/u/177743084" width="100px;" alt="xopaz"/>
       </a>
       <br />
       <a href="https://github.com/xopaz">FOLLOW4FOLLOW</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alxkm">
+        <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
+      </a>
+      <br />
+      <a href="https://github.com/alxkm">Alex Klymenko</a>
     </td>
     <td align="center">
       <a href="https://github.com/omololevy">
