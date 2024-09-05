@@ -100,18 +100,18 @@ Visitor Count:<br>
       <a href="https://github.com/kenjinote">kenji</a>
     </td>
     <td align="center">
-      <a href="https://github.com/H-K-R">
-        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
-      </a>
-      <br />
-      <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Charles-Chrismann">
         <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
       </a>
       <br />
       <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/H-K-R">
+        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
+      </a>
+      <br />
+      <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
     <td align="center">
       <a href="https://github.com/V1nni00">
