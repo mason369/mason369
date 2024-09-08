@@ -202,6 +202,13 @@ Visitor Count:<br>
       <a href="https://github.com/xopaz">FOLLOW4FOLLOW</a>
     </td>
     <td align="center">
+      <a href="https://github.com/dougkalash">
+        <img src="https://avatars2.githubusercontent.com/u/149725576" width="100px;" alt="dougkalash"/>
+      </a>
+      <br />
+      <a href="https://github.com/dougkalash">DouG</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/alxkm">
         <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
       </a>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/omololevy">Levy Omolo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/NazmusSayad">
-        <img src="https://avatars2.githubusercontent.com/u/87106526" width="100px;" alt="NazmusSayad"/>
-      </a>
-      <br />
-      <a href="https://github.com/NazmusSayad">Nazmus Sayad</a>
     </td>
   </tr>
 </table>
