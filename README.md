@@ -181,6 +181,13 @@ Visitor Count:<br>
       <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xopaz">
+        <img src="https://avatars2.githubusercontent.com/u/177743084" width="100px;" alt="xopaz"/>
+      </a>
+      <br />
+      <a href="https://github.com/xopaz">FOLLOW4FOLLOW</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Aziz-AXG">
         <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="Aziz-AXG"/>
       </a>
@@ -193,13 +200,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/911-carrera">911-carrera</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xopaz">
-        <img src="https://avatars2.githubusercontent.com/u/177743084" width="100px;" alt="xopaz"/>
-      </a>
-      <br />
-      <a href="https://github.com/xopaz">FOLLOW4FOLLOW</a>
     </td>
     <td align="center">
       <a href="https://github.com/dougkalash">
