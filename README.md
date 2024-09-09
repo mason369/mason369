@@ -231,7 +231,7 @@ Visitor Count:<br>
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   0 hrs 6 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
