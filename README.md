@@ -195,18 +195,18 @@ Visitor Count:<br>
       <a href="https://github.com/Aziz-AXG">Aziz falah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/911-carrera">
-        <img src="https://avatars2.githubusercontent.com/u/146537917" width="100px;" alt="911-carrera"/>
-      </a>
-      <br />
-      <a href="https://github.com/911-carrera">911-carrera</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/dougkalash">
         <img src="https://avatars2.githubusercontent.com/u/149725576" width="100px;" alt="dougkalash"/>
       </a>
       <br />
       <a href="https://github.com/dougkalash">DouG</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/911-carrera">
+        <img src="https://avatars2.githubusercontent.com/u/146537917" width="100px;" alt="911-carrera"/>
+      </a>
+      <br />
+      <a href="https://github.com/911-carrera">911-carrera</a>
     </td>
     <td align="center">
       <a href="https://github.com/alxkm">
