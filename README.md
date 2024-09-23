@@ -188,18 +188,18 @@ Visitor Count:<br>
       <a href="https://github.com/xopaz">FOLLOW4FOLLOW</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Aziz-AXG">
-        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="Aziz-AXG"/>
-      </a>
-      <br />
-      <a href="https://github.com/Aziz-AXG">Aziz falah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/dougkalash">
         <img src="https://avatars2.githubusercontent.com/u/149725576" width="100px;" alt="dougkalash"/>
       </a>
       <br />
       <a href="https://github.com/dougkalash">DouG</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Aziz-AXG">
+        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="Aziz-AXG"/>
+      </a>
+      <br />
+      <a href="https://github.com/Aziz-AXG">Aziz falah</a>
     </td>
     <td align="center">
       <a href="https://github.com/911-carrera">
