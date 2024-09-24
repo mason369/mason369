@@ -165,20 +165,20 @@ Visitor Count:<br>
       <a href="https://github.com/milsaware">milsaware</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tulna07">
-        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="tulna07"/>
-      </a>
-      <br />
-      <a href="https://github.com/tulna07">Tu Le</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
       <br />
       <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tulna07">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="tulna07"/>
+      </a>
+      <br />
+      <a href="https://github.com/tulna07">Tu Le</a>
     </td>
     <td align="center">
       <a href="https://github.com/xopaz">
