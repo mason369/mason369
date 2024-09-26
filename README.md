@@ -151,18 +151,18 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gizachew29">
-        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gizachew29">Gizachew</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
       <br />
       <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gizachew29">
+        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
       <a href="https://github.com/milsaware">
@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/alxkm">Alex Klymenko</a>
     </td>
     <td align="center">
-      <a href="https://github.com/omololevy">
-        <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
+      <a href="https://github.com/OfficialCodeVoyage">
+        <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
       </a>
       <br />
-      <a href="https://github.com/omololevy">Levy Omolo</a>
+      <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
     </td>
   </tr>
 </table>
