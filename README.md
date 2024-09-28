@@ -174,18 +174,18 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/tulna07">
-        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="tulna07"/>
-      </a>
-      <br />
-      <a href="https://github.com/tulna07">Tu Le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xopaz">
         <img src="https://avatars2.githubusercontent.com/u/177743084" width="100px;" alt="xopaz"/>
       </a>
       <br />
       <a href="https://github.com/xopaz">FOLLOW4FOLLOW</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tulna07">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="tulna07"/>
+      </a>
+      <br />
+      <a href="https://github.com/tulna07">Tu Le</a>
     </td>
     <td align="center">
       <a href="https://github.com/dougkalash">
