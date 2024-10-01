@@ -130,18 +130,18 @@ Visitor Count:<br>
       <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JubayerRiyad">
-        <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
-      </a>
-      <br />
-      <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mustafacagri">
         <img src="https://avatars2.githubusercontent.com/u/7488394" width="100px;" alt="mustafacagri"/>
       </a>
       <br />
       <a href="https://github.com/mustafacagri">Mustafa Çağrı Güven</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JubayerRiyad">
+        <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
+      </a>
+      <br />
+      <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
     <td align="center">
       <a href="https://github.com/AppServiceProvider">
@@ -195,13 +195,6 @@ Visitor Count:<br>
       <a href="https://github.com/tulna07">Tu Le</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dougkalash">
-        <img src="https://avatars2.githubusercontent.com/u/149725576" width="100px;" alt="dougkalash"/>
-      </a>
-      <br />
-      <a href="https://github.com/dougkalash">DouG</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Aziz-AXG">
         <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="Aziz-AXG"/>
       </a>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/alxkm">Alex Klymenko</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OfficialCodeVoyage">
+        <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
+      </a>
+      <br />
+      <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
     </td>
   </tr>
 </table>
