@@ -174,18 +174,18 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/milsaware">
-        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="milsaware"/>
-      </a>
-      <br />
-      <a href="https://github.com/milsaware">milsaware</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xopaz">
         <img src="https://avatars2.githubusercontent.com/u/177743084" width="100px;" alt="xopaz"/>
       </a>
       <br />
       <a href="https://github.com/xopaz">FOLLOW4FOLLOW</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/milsaware">
+        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="milsaware"/>
+      </a>
+      <br />
+      <a href="https://github.com/milsaware">milsaware</a>
     </td>
     <td align="center">
       <a href="https://github.com/tulna07">
