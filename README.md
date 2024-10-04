@@ -151,18 +151,18 @@ Visitor Count:<br>
       <a href="https://github.com/AppServiceProvider">App Service</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kulikov-dev">
-        <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
-      </a>
-      <br />
-      <a href="https://github.com/kulikov-dev">kulikov-dev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
       <br />
       <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kulikov-dev">
+        <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
+      </a>
+      <br />
+      <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gizachew29">
@@ -209,18 +209,18 @@ Visitor Count:<br>
       <a href="https://github.com/911-carrera">911-carrera</a>
     </td>
     <td align="center">
-      <a href="https://github.com/alxkm">
-        <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
-      </a>
-      <br />
-      <a href="https://github.com/alxkm">Alex Klymenko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/OfficialCodeVoyage">
         <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
       </a>
       <br />
       <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alxkm">
+        <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
+      </a>
+      <br />
+      <a href="https://github.com/alxkm">Alex Klymenko</a>
     </td>
   </tr>
 </table>
