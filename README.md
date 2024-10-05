@@ -144,18 +144,18 @@ Visitor Count:<br>
       <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AppServiceProvider">
-        <img src="https://avatars2.githubusercontent.com/u/47697490" width="100px;" alt="AppServiceProvider"/>
-      </a>
-      <br />
-      <a href="https://github.com/AppServiceProvider">App Service</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
       <br />
       <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AppServiceProvider">
+        <img src="https://avatars2.githubusercontent.com/u/47697490" width="100px;" alt="AppServiceProvider"/>
+      </a>
+      <br />
+      <a href="https://github.com/AppServiceProvider">App Service</a>
     </td>
     <td align="center">
       <a href="https://github.com/kulikov-dev">
@@ -195,18 +195,18 @@ Visitor Count:<br>
       <a href="https://github.com/tulna07">Tu Le</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Aziz-AXG">
-        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="Aziz-AXG"/>
-      </a>
-      <br />
-      <a href="https://github.com/Aziz-AXG">Aziz falah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/911-carrera">
         <img src="https://avatars2.githubusercontent.com/u/146537917" width="100px;" alt="911-carrera"/>
       </a>
       <br />
       <a href="https://github.com/911-carrera">911-carrera</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Aziz-AXG">
+        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="Aziz-AXG"/>
+      </a>
+      <br />
+      <a href="https://github.com/Aziz-AXG">Aziz falah</a>
     </td>
     <td align="center">
       <a href="https://github.com/OfficialCodeVoyage">
