@@ -123,18 +123,18 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/ethanflower1903">
-        <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
-      </a>
-      <br />
-      <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mustafacagri">
         <img src="https://avatars2.githubusercontent.com/u/7488394" width="100px;" alt="mustafacagri"/>
       </a>
       <br />
       <a href="https://github.com/mustafacagri">Mustafa Çağrı Güven</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ethanflower1903">
+        <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
+      </a>
+      <br />
+      <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
     <td align="center">
       <a href="https://github.com/JubayerRiyad">
@@ -165,20 +165,20 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gizachew29">
-        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gizachew29">Gizachew</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/xopaz">
         <img src="https://avatars2.githubusercontent.com/u/177743084" width="100px;" alt="xopaz"/>
       </a>
       <br />
       <a href="https://github.com/xopaz">FOLLOW4FOLLOW</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Gizachew29">
+        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
       <a href="https://github.com/milsaware">
