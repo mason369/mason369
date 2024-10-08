@@ -114,20 +114,20 @@ Visitor Count:<br>
       <a href="https://github.com/H-K-R">Humayra Khanom Rime</a>
     </td>
     <td align="center">
-      <a href="https://github.com/V1nni00">
-        <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="V1nni00"/>
-      </a>
-      <br />
-      <a href="https://github.com/V1nni00">Vinay Kumar</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/mustafacagri">
         <img src="https://avatars2.githubusercontent.com/u/7488394" width="100px;" alt="mustafacagri"/>
       </a>
       <br />
       <a href="https://github.com/mustafacagri">Mustafa Çağrı Güven</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/V1nni00">
+        <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="V1nni00"/>
+      </a>
+      <br />
+      <a href="https://github.com/V1nni00">Vinay Kumar</a>
     </td>
     <td align="center">
       <a href="https://github.com/ethanflower1903">
