@@ -137,18 +137,18 @@ Visitor Count:<br>
       <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JubayerRiyad">
-        <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
-      </a>
-      <br />
-      <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
       <br />
       <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JubayerRiyad">
+        <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
+      </a>
+      <br />
+      <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
     <td align="center">
       <a href="https://github.com/AppServiceProvider">
