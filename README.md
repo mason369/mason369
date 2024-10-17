@@ -107,18 +107,18 @@ Visitor Count:<br>
       <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
     </td>
     <td align="center">
-      <a href="https://github.com/H-K-R">
-        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
-      </a>
-      <br />
-      <a href="https://github.com/H-K-R">Humayra Khanom Rime</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mustafacagri">
         <img src="https://avatars2.githubusercontent.com/u/7488394" width="100px;" alt="mustafacagri"/>
       </a>
       <br />
       <a href="https://github.com/mustafacagri">Mustafa Çağrı Güven</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/H-K-R">
+        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
+      </a>
+      <br />
+      <a href="https://github.com/H-K-R">Humayra Khanom Rime</a>
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ Visitor Count:<br>
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
       <br />
-      <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
+      <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/JubayerRiyad">
