@@ -220,7 +220,7 @@ Visitor Count:<br>
         <img src="https://avatars2.githubusercontent.com/u/167752965" width="100px;" alt="Rez4-3yz"/>
       </a>
       <br />
-      <a href="https://github.com/Rez4-3yz">🦋 Name Rza 2005 🔭  </a>
+      <a href="https://github.com/Rez4-3yz">Rza 2005</a>
     </td>
   </tr>
 </table>
