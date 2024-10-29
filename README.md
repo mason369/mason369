@@ -216,11 +216,11 @@ Visitor Count:<br>
       <a href="https://github.com/Aziz-AXG">Aziz falah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Rez4-3yz">
-        <img src="https://avatars2.githubusercontent.com/u/167752965" width="100px;" alt="Rez4-3yz"/>
+      <a href="https://github.com/alxkm">
+        <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
       </a>
       <br />
-      <a href="https://github.com/Rez4-3yz">Rza 2005</a>
+      <a href="https://github.com/alxkm">Alex Klymenko</a>
     </td>
   </tr>
 </table>
