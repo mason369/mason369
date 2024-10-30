@@ -165,21 +165,14 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xopaz">
-        <img src="https://avatars2.githubusercontent.com/u/177743084" width="100px;" alt="xopaz"/>
-      </a>
-      <br />
-      <a href="https://github.com/xopaz">FOLLOW4FOLLOW</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Gizachew29">
         <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
       </a>
       <br />
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/milsaware">
         <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="milsaware"/>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/alxkm">Alex Klymenko</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/omololevy">
+        <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
+      </a>
+      <br />
+      <a href="https://github.com/omololevy">Levy Omolo</a>
     </td>
   </tr>
 </table>
