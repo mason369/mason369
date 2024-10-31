@@ -195,6 +195,13 @@ Visitor Count:<br>
       <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
     </td>
     <td align="center">
+      <a href="https://github.com/idimetrix">
+        <img src="https://avatars2.githubusercontent.com/u/6536323" width="100px;" alt="idimetrix"/>
+      </a>
+      <br />
+      <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/911-carrera">
         <img src="https://avatars2.githubusercontent.com/u/146537917" width="100px;" alt="911-carrera"/>
       </a>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/alxkm">Alex Klymenko</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/omololevy">
-        <img src="https://avatars2.githubusercontent.com/u/89441139" width="100px;" alt="omololevy"/>
-      </a>
-      <br />
-      <a href="https://github.com/omololevy">Levy Omolo</a>
     </td>
   </tr>
 </table>
