@@ -181,18 +181,18 @@ Visitor Count:<br>
       <a href="https://github.com/milsaware">milsaware</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tulna07">
-        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="tulna07"/>
-      </a>
-      <br />
-      <a href="https://github.com/tulna07">Tu Le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/idimetrix">
         <img src="https://avatars2.githubusercontent.com/u/6536323" width="100px;" alt="idimetrix"/>
       </a>
       <br />
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tulna07">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="tulna07"/>
+      </a>
+      <br />
+      <a href="https://github.com/tulna07">Tu Le</a>
     </td>
     <td align="center">
       <a href="https://github.com/OfficialCodeVoyage">
