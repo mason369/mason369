@@ -151,6 +151,13 @@ Visitor Count:<br>
       <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/idimetrix">
+        <img src="https://avatars2.githubusercontent.com/u/6536323" width="100px;" alt="idimetrix"/>
+      </a>
+      <br />
+      <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/AppServiceProvider">
         <img src="https://avatars2.githubusercontent.com/u/47697490" width="100px;" alt="AppServiceProvider"/>
       </a>
@@ -163,13 +170,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/idimetrix">
-        <img src="https://avatars2.githubusercontent.com/u/6536323" width="100px;" alt="idimetrix"/>
-      </a>
-      <br />
-      <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
     </td>
   </tr>
   <tr>
