@@ -158,12 +158,21 @@ Visitor Count:<br>
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
     </td>
     <td align="center">
+      <a href="https://github.com/meliksahyorulmazlar">
+        <img src="https://avatars2.githubusercontent.com/u/141827156" width="100px;" alt="meliksahyorulmazlar"/>
+      </a>
+      <br />
+      <a href="https://github.com/meliksahyorulmazlar">Meliksah Yorulmazlar</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/AppServiceProvider">
         <img src="https://avatars2.githubusercontent.com/u/47697490" width="100px;" alt="AppServiceProvider"/>
       </a>
       <br />
       <a href="https://github.com/AppServiceProvider">App Service</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/kulikov-dev">
         <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
@@ -171,8 +180,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Gizachew29">
         <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
@@ -214,13 +221,6 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/Aziz-AXG">Aziz falah</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/alxkm">
-        <img src="https://avatars2.githubusercontent.com/u/19151554" width="100px;" alt="alxkm"/>
-      </a>
-      <br />
-      <a href="https://github.com/alxkm">Alex Klymenko</a>
     </td>
   </tr>
 </table>
