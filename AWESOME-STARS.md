@@ -115,7 +115,6 @@
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-- [Hank-Chrome/free-clash-node](https://github.com/Hank-Chrome/free-clash-node) - 免费clash,v2ray节点，好用，还高速！高速稳定翻墙！
 - [kaka3511/computer-graduation-design-idea](https://github.com/kaka3511/computer-graduation-design-idea) - 计算机毕业设计（源码+论文）
 - [liusxs/liusxs](https://github.com/liusxs/liusxs) - 
 - [mason369/webpointdev](https://github.com/mason369/webpointdev) - This is my Profile. Please carefully read my profile. Thank.
