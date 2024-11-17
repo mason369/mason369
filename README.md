@@ -137,18 +137,18 @@ Visitor Count:<br>
       <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
     <td align="center">
-      <a href="https://github.com/seniorvuejsdeveloper">
-        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
-      </a>
-      <br />
-      <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/idimetrix">
         <img src="https://avatars2.githubusercontent.com/u/6536323" width="100px;" alt="idimetrix"/>
       </a>
       <br />
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/seniorvuejsdeveloper">
+        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
+      </a>
+      <br />
+      <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/JubayerRiyad">
