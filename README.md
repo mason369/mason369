@@ -130,18 +130,18 @@ Visitor Count:<br>
       <a href="https://github.com/V1nni00">Vinay Kumar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ethanflower1903">
-        <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
-      </a>
-      <br />
-      <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/idimetrix">
         <img src="https://avatars2.githubusercontent.com/u/6536323" width="100px;" alt="idimetrix"/>
       </a>
       <br />
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ethanflower1903">
+        <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
+      </a>
+      <br />
+      <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
     <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
