@@ -123,18 +123,18 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/V1nni00">
-        <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="V1nni00"/>
-      </a>
-      <br />
-      <a href="https://github.com/V1nni00">Vinay Kumar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/idimetrix">
         <img src="https://avatars2.githubusercontent.com/u/6536323" width="100px;" alt="idimetrix"/>
       </a>
       <br />
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/V1nni00">
+        <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="V1nni00"/>
+      </a>
+      <br />
+      <a href="https://github.com/V1nni00">Vinay Kumar</a>
     </td>
     <td align="center">
       <a href="https://github.com/ethanflower1903">
@@ -188,18 +188,18 @@ Visitor Count:<br>
       <a href="https://github.com/milsaware">milsaware</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tulna07">
-        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="tulna07"/>
-      </a>
-      <br />
-      <a href="https://github.com/tulna07">Tu Le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/OfficialCodeVoyage">
         <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
       </a>
       <br />
       <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tulna07">
+        <img src="https://avatars2.githubusercontent.com/u/72339711" width="100px;" alt="tulna07"/>
+      </a>
+      <br />
+      <a href="https://github.com/tulna07">Tu Le</a>
     </td>
     <td align="center">
       <a href="https://github.com/911-carrera">
