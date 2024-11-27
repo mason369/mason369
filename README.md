@@ -181,18 +181,18 @@ Visitor Count:<br>
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
-      <a href="https://github.com/milsaware">
-        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="milsaware"/>
-      </a>
-      <br />
-      <a href="https://github.com/milsaware">milsaware</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/OfficialCodeVoyage">
         <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
       </a>
       <br />
       <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/milsaware">
+        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="milsaware"/>
+      </a>
+      <br />
+      <a href="https://github.com/milsaware">milsaware</a>
     </td>
     <td align="center">
       <a href="https://github.com/tulna07">
