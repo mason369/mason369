@@ -195,18 +195,18 @@ Visitor Count:<br>
       <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
-      <a href="https://github.com/milsaware">
-        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="milsaware"/>
-      </a>
-      <br />
-      <a href="https://github.com/milsaware">milsaware</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/GoldenDev321">
         <img src="https://avatars2.githubusercontent.com/u/155573135" width="100px;" alt="GoldenDev321"/>
       </a>
       <br />
       <a href="https://github.com/GoldenDev321">Golden Dragon</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/milsaware">
+        <img src="https://avatars2.githubusercontent.com/u/95859352" width="100px;" alt="milsaware"/>
+      </a>
+      <br />
+      <a href="https://github.com/milsaware">milsaware</a>
     </td>
     <td align="center">
       <a href="https://github.com/tulna07">
