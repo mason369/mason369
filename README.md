@@ -130,13 +130,6 @@ Visitor Count:<br>
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
     </td>
     <td align="center">
-      <a href="https://github.com/meliksahyorulmazlar">
-        <img src="https://avatars2.githubusercontent.com/u/141827156" width="100px;" alt="meliksahyorulmazlar"/>
-      </a>
-      <br />
-      <a href="https://github.com/meliksahyorulmazlar">Meliksah Yorulmazlar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/V1nni00">
         <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="V1nni00"/>
       </a>
@@ -171,8 +164,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/AppServiceProvider">App Service</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/kulikov-dev">
         <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
@@ -180,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/OfficialCodeVoyage">
         <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
@@ -188,18 +181,18 @@ Visitor Count:<br>
       <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gizachew29">
-        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gizachew29">Gizachew</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/GoldenDev321">
         <img src="https://avatars2.githubusercontent.com/u/155573135" width="100px;" alt="GoldenDev321"/>
       </a>
       <br />
       <a href="https://github.com/GoldenDev321">Golden Dragon</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gizachew29">
+        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
       <a href="https://github.com/milsaware">
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/911-carrera">911-carrera</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Aziz-AXG">
+        <img src="https://avatars2.githubusercontent.com/u/74980212" width="100px;" alt="Aziz-AXG"/>
+      </a>
+      <br />
+      <a href="https://github.com/Aziz-AXG">Aziz falah</a>
     </td>
   </tr>
 </table>
