@@ -174,18 +174,18 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/OfficialCodeVoyage">
-        <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
-      </a>
-      <br />
-      <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/GoldenDev321">
         <img src="https://avatars2.githubusercontent.com/u/155573135" width="100px;" alt="GoldenDev321"/>
       </a>
       <br />
       <a href="https://github.com/GoldenDev321">Golden Dragon</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OfficialCodeVoyage">
+        <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
+      </a>
+      <br />
+      <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gizachew29">
