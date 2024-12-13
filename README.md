@@ -174,18 +174,18 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/kulikov-dev">
-        <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
-      </a>
-      <br />
-      <a href="https://github.com/kulikov-dev">kulikov-dev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/OfficialCodeVoyage">
         <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
       </a>
       <br />
       <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kulikov-dev">
+        <img src="https://avatars2.githubusercontent.com/u/40471760" width="100px;" alt="kulikov-dev"/>
+      </a>
+      <br />
+      <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gizachew29">
