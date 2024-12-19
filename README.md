@@ -151,18 +151,18 @@ Visitor Count:<br>
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JubayerRiyad">
-        <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
-      </a>
-      <br />
-      <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/GoldenDev321">
         <img src="https://avatars2.githubusercontent.com/u/155573135" width="100px;" alt="GoldenDev321"/>
       </a>
       <br />
       <a href="https://github.com/GoldenDev321">Golden Dragon</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JubayerRiyad">
+        <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
+      </a>
+      <br />
+      <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
     <td align="center">
       <a href="https://github.com/XiaomingX">
