@@ -123,18 +123,18 @@ Visitor Count:<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/H-K-R">
-        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
-      </a>
-      <br />
-      <a href="https://github.com/H-K-R">Humayra Khanom Rime</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/meliksahyorulmazlar">
         <img src="https://avatars2.githubusercontent.com/u/141827156" width="100px;" alt="meliksahyorulmazlar"/>
       </a>
       <br />
       <a href="https://github.com/meliksahyorulmazlar">Meliksah Yorulmazlar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/H-K-R">
+        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
+      </a>
+      <br />
+      <a href="https://github.com/H-K-R">Humayra Khanom Rime</a>
     </td>
     <td align="center">
       <a href="https://github.com/V1nni00">
