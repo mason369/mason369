@@ -137,13 +137,6 @@ Visitor Count:<br>
       <a href="https://github.com/H-K-R">Humayra Khanom Rime</a>
     </td>
     <td align="center">
-      <a href="https://github.com/XiaomingX">
-        <img src="https://avatars2.githubusercontent.com/u/5387930" width="100px;" alt="XiaomingX"/>
-      </a>
-      <br />
-      <a href="https://github.com/XiaomingX">Y11</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/V1nni00">
         <img src="https://avatars2.githubusercontent.com/u/122740951" width="100px;" alt="V1nni00"/>
       </a>
@@ -171,8 +164,6 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/GoldenDev321">Golden Dragon</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
@@ -180,12 +171,21 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/OfficialCodeVoyage">
         <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
       </a>
       <br />
       <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zshaian">
+        <img src="https://avatars2.githubusercontent.com/u/81682916" width="100px;" alt="zshaian"/>
+      </a>
+      <br />
+      <a href="https://github.com/zshaian">Frost</a>
     </td>
     <td align="center">
       <a href="https://github.com/AppServiceProvider">
