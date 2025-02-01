@@ -202,18 +202,18 @@ Visitor Count:<br>
       <a href="https://github.com/kulikov-dev">kulikov-dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gizachew29">
-        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gizachew29">Gizachew</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/itsKayWat">
         <img src="https://avatars2.githubusercontent.com/u/185666968" width="100px;" alt="itsKayWat"/>
       </a>
       <br />
       <a href="https://github.com/itsKayWat">itsKayWat</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gizachew29">
+        <img src="https://avatars2.githubusercontent.com/u/72370435" width="100px;" alt="Gizachew29"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gizachew29">Gizachew</a>
     </td>
     <td align="center">
       <a href="https://github.com/milsaware">
