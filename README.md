@@ -158,21 +158,12 @@ Visitor Count:<br>
       <a href="https://github.com/GoldenDev321">Golden Dragon</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zshaian">
-        <img src="https://avatars2.githubusercontent.com/u/81682916" width="100px;" alt="zshaian"/>
-      </a>
-      <br />
-      <a href="https://github.com/zshaian">Frost</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/OfficialCodeVoyage">
         <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
       </a>
       <br />
       <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars2.githubusercontent.com/u/81983264" width="100px;" alt="JubayerRiyad"/>
@@ -180,6 +171,8 @@ Visitor Count:<br>
       <br />
       <a href="https://github.com/JubayerRiyad">Jubayer Riyad</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/itsKayWat">
         <img src="https://avatars2.githubusercontent.com/u/185666968" width="100px;" alt="itsKayWat"/>
@@ -221,6 +214,13 @@ Visitor Count:<br>
       </a>
       <br />
       <a href="https://github.com/tulna07">Tu Le</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/911-carrera">
+        <img src="https://avatars2.githubusercontent.com/u/146537917" width="100px;" alt="911-carrera"/>
+      </a>
+      <br />
+      <a href="https://github.com/911-carrera">911-carrera</a>
     </td>
   </tr>
 </table>
