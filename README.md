@@ -51,12 +51,12 @@ I'm **Mason**.
 
 总访客次数:<br>
 Visitor Count:<br>
-<img src="https://profile-counter.glitch.me/mason369/count.svg"/>
+<img src="https://komarev.com/ghpvc/?username=mason369&color=blue&style=flat-square&label=Profile+Views"/>
 <br></br>
 <table style="width:100%;margin-top:30px" style="border:none">
   <tr style="border:none">
     <th style="border:none"><a href="https://github.com/mason369">
-    <img  src="https://github-readme-stats-ouuan.vercel.app/api?username=mason369&theme=ligit&show_icons=true">
+    <img  src="https://github-readme-stats.vercel.app/api?username=mason369&theme=default&show_icons=true&count_private=true">
     </a></th>
     <th style="border:none"><a href="https://github.com/mason369">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6&hide=smali" />
@@ -76,7 +76,7 @@ Visitor Count:<br>
         <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="IDouble"/>
       </a>
       <br />
-      <a href="https://github.com/IDouble">Alp ₿📈🚀🌕</a>
+      <a href="https://github.com/IDouble">Alp ???????</a>
     </td>
     <td align="center">
       <a href="https://github.com/gamemann">
