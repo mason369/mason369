@@ -67,7 +67,7 @@ I'm **Mason**.
 Visitor Count:<br>
 <img src="https://komarev.com/ghpvc/?username=mason369&color=blue&style=flat-square&label=Profile+Views"/>
 <br></br>
-<table style="width:100%;margin-top:30px" style="border:none">
+<table style="width:100%;margin-top:30px;border:none">
   <tr style="border:none">
     <th style="border:none"><a href="https://github.com/mason369">
     <img  src="https://github-readme-stats.vercel.app/api?username=mason369&theme=default&show_icons=true&count_private=true">
