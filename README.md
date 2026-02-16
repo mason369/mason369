@@ -240,15 +240,6 @@ Visitor Count:<br>
 </table>
 <!--END_SECTION:top-followers-->
 
-#### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)(每月编码时间)
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 ---
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
