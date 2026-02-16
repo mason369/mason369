@@ -6,47 +6,61 @@ I'm **Mason**.
 **Languages and Frameworks**
 
 
+<code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=flask&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=fastapi&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=qt&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=ts&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=vue&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=react&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=git&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=ts&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=scss&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=md&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=java&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=c&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=scss&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=md&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=regex&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=mysql&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=postgres&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=git&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=githubactions&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=nginx&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=regex&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=webpack&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=c&perline=1&theme=light" /></code>
 
 **Tools and Environments**
 
 
+<code><img height="25" src="https://skillicons.dev/icons?i=vscode&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=pycharm&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=idea&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=visualstudio&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=androidstudio&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=atom&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=au&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=aws&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=ae&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=discord&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=docker&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=gcp&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=kubernetes&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=github&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=idea&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=gitlab&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=aws&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=gcp&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=linux&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=ubuntu&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=windows&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=bash&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=powershell&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=postman&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=raspberrypi&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=ps&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=pr&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=powershell&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=raspberrypi&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=ae&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=au&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=discord&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=stackoverflow&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=twitter&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=visualstudio&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=vscode&perline=1&theme=light" /></code>
 
 
 总访客次数:<br>
