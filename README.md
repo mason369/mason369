@@ -240,10 +240,3 @@ Visitor Count:<br>
 </table>
 <!--END_SECTION:top-followers-->
 
----
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-#### :star2: [Projects starred by me(我加星标的项目)](https://github.com/maguowei/starred)
-
-[My Awesome Stars](AWESOME-STARS.md)
