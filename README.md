@@ -70,10 +70,10 @@ Visitor Count:<br>
 <table style="width:100%;margin-top:30px;border:none">
   <tr style="border:none">
     <th style="border:none"><a href="https://github.com/mason369">
-    <img  src="https://github-readme-stats.vercel.app/api?username=mason369&theme=default&show_icons=true&count_private=true">
+    <img  src="https://github-readme-stats-seven-blush-95.vercel.app/api?username=mason369&theme=default&show_icons=true&count_private=true">
     </a></th>
     <th style="border:none"><a href="https://github.com/mason369">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6&hide=smali" />
+    <img  src="https://github-readme-stats-seven-blush-95.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6&hide=smali" />
     </a></th>
   </tr>
 </table>
