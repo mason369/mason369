@@ -31,6 +31,24 @@ I'm **Mason**.
 <code><img height="25" src="https://skillicons.dev/icons?i=githubactions&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=nginx&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=webpack&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=go&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=rust&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=cpp&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=php&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=swift&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=kotlin&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=nextjs&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=nuxtjs&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=angular&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=svelte&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=tailwind&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=express&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=laravel&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=spring&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=electron&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=mongodb&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=redis&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=graphql&perline=1&theme=light" /></code>
 
 **Tools and Environments**
 
@@ -61,6 +79,25 @@ I'm **Mason**.
 <code><img height="25" src="https://skillicons.dev/icons?i=discord&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=stackoverflow&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=twitter&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=neovim&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=sublime&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=figma&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=blender&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=terraform&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=ansible&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=jenkins&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=azure&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=debian&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=arch&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=mint&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=vercel&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=cloudflare&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=heroku&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=netlify&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=notion&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=npm&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=yarn&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=kafka&perline=1&theme=light" /></code>
 
 
 总访客次数:<br>
@@ -239,4 +276,3 @@ Visitor Count:<br>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
-
