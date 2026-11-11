@@ -110,7 +110,7 @@ Visitor Count:<br>
     <img  src="https://github-readme-stats-seven-blush-95.vercel.app/api?username=mason369&theme=default&show_icons=true&count_private=true">
     </a></th>
     <th style="border:none"><a href="https://github.com/mason369">
-    <img  src="https://github-readme-stats-seven-blush-95.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6&hide=smali" />
+    <img  src="https://github-readme-stats-seven-blush-95.vercel.app/api/top-langs/?username=mason369&layout=compact&langs_count=6&hide=smali,html" />
     </a></th>
   </tr>
 </table>
